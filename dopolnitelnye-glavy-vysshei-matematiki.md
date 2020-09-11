@@ -13,7 +13,7 @@
 телефон: **+79213180371** \(whatsapp\)  
 почта: **tanpankrat@yandex.ru**
 
-[папка с учебниками](https://drive.google.com/drive/folders/1LcAiNhYUjP6Au3LD4q3pjy7EvXb958Pd)
+{% file src=".gitbook/assets/ryady.pdf" caption="задачник по которому мы учимся" %}
 
 <table>
   <thead>
