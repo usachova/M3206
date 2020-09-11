@@ -18,32 +18,8 @@
 
 {% file src=".gitbook/assets/ryady.pdf" caption="задачник по которому мы учимся" %}
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">&#x43A;&#x43E;&#x433;&#x434;&#x430; &#x437;&#x430;&#x434;&#x430;&#x43B;&#x438;</th>
-      <th
-      style="text-align:left">&#x434;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x435;&#x435; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x435;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">1.09</td>
-      <td style="text-align:left">
-        <p>&#x2116;1-6</p>
-        <p>&#x2116;13-18</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">8.09</td>
-      <td style="text-align:left">
-        <p>&#x2116;67</p>
-        <p>&#x2116;71-72</p>
-        <p>&#x2116;81</p>
-        <p>&#x2116;86-88</p>
-        <p>&#x2116;90</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| когда задали | домашнее задание |
+| :--- | :--- |
+| 1.09 | №1-6; 13-18 |
+| 8.09 | №67; 71-72; 81; 86-88; 90 |
 
