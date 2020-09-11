@@ -13,6 +13,9 @@
 
 #### Преподаватель: Макаревич Роман Дмитриевич
 
+телега: @ukcrem  
+почта: remmybump@gmail.com
+
 [конференция в zoom](https://itmo.zoom.us/j/8545966049)
 
 [таблица с результатами](https://docs.google.com/spreadsheets/d/1H75MoSvL-165x5aM-p26eFZcY57UYx0gPtOHhvpGYGw/edit#gid=1537782059)  
