@@ -4,9 +4,9 @@
 
 #### Преподаватель: [Маятин Александр Владимирович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:105747231495544::NO::PID:114568)
 
-[лекции](https://www.twitch.tv/mayatin
-)  
-[записи прошедших лекций](https://www.youtube.com/c/alexandermayatin)
+[трансляции лекций](https://www.twitch.tv/mayatin)
+
+* 1 лекция: [запись](https://www.youtube.com/watch?v=Gw-8Yc6ZXPU&ab_channel=AlexanderMayatin)
 
 ## Практика
 
