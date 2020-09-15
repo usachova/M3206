@@ -18,7 +18,7 @@
 
 {% file src=".gitbook/assets/ryady.pdf" caption="задачник по которому мы учимся" %}
 
-{% file src=".gitbook/assets/tipovik-1.pdf" caption="типовик 1 \(делать только ряды кроме 6 задания!!!\)" %}
+{% file src=".gitbook/assets/tipovik-1.pdf" caption="типовик 1 \(делать ряды без 6\) сдать до 8 недели \(19.10\)" %}
 
 <table>
   <thead>
