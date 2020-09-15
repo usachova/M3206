@@ -18,7 +18,7 @@
 
 {% file src=".gitbook/assets/ryady.pdf" caption="задачник по которому мы учимся" %}
 
-{% file src=".gitbook/assets/tipovik-1.pdf" caption="типовик 1 \(делать только ряды\)" %}
+{% file src=".gitbook/assets/tipovik-1.pdf" caption="типовик 1 \(делать только ряды кроме 6 задания!!!\)" %}
 
 | когда задали | домашнее задание |
 | :--- | :--- |
