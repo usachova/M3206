@@ -22,7 +22,11 @@
 [условия лабораторных](https://drive.google.com/drive/folders/1-KTjB994_y5f6Es5lCE0y6L4tMRQhMq_)  
 [система для сдачи отчётов](https://reports.artrey.ru/login/?next=/)
 
+{% file src=".gitbook/assets/lab1\_oop.pdf" caption="1. INI файл \[дедлайн: 9.10\]" %}
 
+{% file src=".gitbook/assets/lab2\_oop.pdf" caption="2. магазин \[дедлайн: ??\]" %}
+
+{% file src=".gitbook/assets/lab3\_oop.pdf" caption="3. симулятор гонок \[дедлайн: ??\]" %}
 
 
 
