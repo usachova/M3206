@@ -55,6 +55,10 @@
         <p>&#x43D;&#x430;&#x447;&#x430;&#x442;&#x44C; &#x442;&#x438;&#x43F;&#x43E;&#x432;&#x438;&#x43A;</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">22.09</td>
+      <td style="text-align:left">&#x2116;</td>
+    </tr>
   </tbody>
 </table>
 
