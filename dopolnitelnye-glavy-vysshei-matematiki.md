@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td style="text-align:left">22.09</td>
-      <td style="text-align:left">&#x2116;</td>
+      <td style="text-align:left">&#x2116;190-193; 196</td>
     </tr>
   </tbody>
 </table>
