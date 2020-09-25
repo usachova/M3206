@@ -35,9 +35,8 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">&#x43A;&#x43E;&#x433;&#x434;&#x430; &#x437;&#x430;&#x434;&#x430;&#x43B;&#x438;</th>
-      <th
-      style="text-align:left">&#x434;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x435;&#x435; &#x437;&#x430;&#x434;&#x430;&#x43D;&#x438;&#x435;</th>
+      <th style="text-align:left">&#x434;&#x437; &#x43E;&#x442;</th>
+      <th style="text-align:left">&#x43D;&#x43E;&#x43C;&#x435;&#x440;&#x430;</th>
     </tr>
   </thead>
   <tbody>
