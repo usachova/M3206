@@ -2,13 +2,9 @@
 
 ## НЕ постоянные ссылки:
 
-лекция 25.09.2020, время начала 13:30  
-ссылка: [https://itmo.zoom.us/j/89112790290](https://itmo.zoom.us/j/89112790290)  
-идентификатор конференции: 89112790290, пароль: 202645
-
-лекция 02.10.2020 13:30  
-ссылка: [https://itmo.zoom.us/j/82601291342](https://itmo.zoom.us/j/82601291342?pwd=K1p2VGhYdVdPMmRyN01qR29mVXMwUT09#success)  
-идентификатор конференции: 82601291342, пароль: 101610
+практика 06.10.2020 15:20  
+ссылка: [https://itmo.zoom.us/j/89798202913?pwd=MytTci9VSUNmZFRYdVlaUXdiVFk1UT09\#success](https://itmo.zoom.us/j/89798202913?pwd=MytTci9VSUNmZFRYdVlaUXdiVFk1UT09#success)  
+идентификатор конференции: 89798202913, пароль: 150529
 
 ## Лекции
 
