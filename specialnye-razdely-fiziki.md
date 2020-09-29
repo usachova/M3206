@@ -11,3 +11,5 @@
 почта: **zinchik\_alex@mail.ru**  
 [сайт с лабами/рубежками/контрольными](https://study.physics.itmo.ru/login/index.php)
 
+![&#x43B;&#x430;&#x431;&#x430; &#x2116;0 &#x434;&#x43B;&#x44F; &#x434;&#x438;&#x441;&#x442;&#x430;&#x43D;&#x446;&#x438;&#x43E;&#x43D;&#x43A;&#x438;](.gitbook/assets/image.png)
+
