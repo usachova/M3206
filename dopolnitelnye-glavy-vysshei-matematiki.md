@@ -59,6 +59,10 @@
       <td style="text-align:left">22.09</td>
       <td style="text-align:left">&#x2116;190-193; 196</td>
     </tr>
+    <tr>
+      <td style="text-align:left">29.09</td>
+      <td style="text-align:left">&#x2116;260; 263; 264; 269</td>
+    </tr>
   </tbody>
 </table>
 
