@@ -13,4 +13,5 @@
 * [Операционные системы](operacionnye-sistemy.md)
 * [Специальные разделы физики](specialnye-razdely-fiziki.md)
 * [Физическая культура](fizicheskaya-kultura.md)
+* [ОГНП](ognp.md)
 
