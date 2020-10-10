@@ -47,6 +47,7 @@
 * [ссылка](https://openedu.ru/), где лежат все курсы
 * [описание тем](https://drive.google.com/file/d/17bvRYAjUH2Wkuzu8I8yxMAZgZwqG3AcS/view)
 * [группа вк](https://vk.com/lifesafety_itmo)
+* Русанов Дмитрий Юрьевич [https://vk.com/rusanov14](https://vk.com/rusanov14) [rus@kronbars.ru](mailto:rus@kronbars.ru)
 
 ### НЕ постоянные ссылки на пары:
 
