@@ -30,9 +30,9 @@
 
 {% file src=".gitbook/assets/lab1\_oop.pdf" caption="1. INI файл \[дедлайн: 9.10\]" %}
 
-{% file src=".gitbook/assets/lab2\_oop.pdf" caption="2. магазин \[дедлайн: ??\]" %}
+{% file src=".gitbook/assets/lab2\_oop.pdf" caption="2. магазин \[дедлайн: 23.10\]" %}
 
-{% file src=".gitbook/assets/lab3\_oop.pdf" caption="3. симулятор гонок \[дедлайн: ??\]" %}
+{% file src=".gitbook/assets/lab3\_oop.pdf" caption="3. симулятор гонок \[дедлайн: 6.11\]" %}
 
 
 
