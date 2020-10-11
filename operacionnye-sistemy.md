@@ -6,7 +6,12 @@
 
 [трансляции лекций](https://www.twitch.tv/mayatin)
 
-* 1 лекция: [запись](https://www.youtube.com/watch?v=Gw-8Yc6ZXPU&ab_channel=AlexanderMayatin)
+* 1 лекция: [запись](https://www.youtube.com/watch?v=Gw-8Yc6ZXPU&ab_channel=AlexanderMayatin), [и ещё одна](https://www.youtube.com/watch?v=OauvFXqzZlc&t=810s&ab_channel=AlexanderMayatin)
+* 2 лекция: [запись](https://www.youtube.com/watch?v=F3PX38nF9TI&ab_channel=AlexanderMayatin)
+* 3 лекция: [запись](https://www.youtube.com/watch?v=HETdXWS4Kho)
+* 4 лекция: [запись](https://www.youtube.com/watch?v=VDRD5lhV5OQ&ab_channel=AlexanderMayatin)
+* 5 лекция: [запись](https://www.youtube.com/watch?v=uFLMnETwXZw&ab_channel=AlexanderMayatin)
+* 6 лекция: [запись](https://www.youtube.com/watch?v=d61GmuJ_fZ4&ab_channel=AlexanderMayatin)
 
 ## Практика
 
