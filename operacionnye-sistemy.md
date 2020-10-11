@@ -28,8 +28,8 @@
 
 | № лабы | дедлайн |
 | :--- | :--- |
-| 1 | ~~3.10~~ |
-| 2 | **17.10** |
+| [1](https://drive.google.com/file/d/1GfbY60GyCBx_k3E6ZkZ0dXaVH_7g7yFK/view) | ~~3.10~~ |
+| [2](https://drive.google.com/file/d/1czMh7rkebHVthPxVP54K8NkhBllkJ5O3/view) | **17.10** |
 | 3 | 31.10 |
 | 4 | 7.11 |
 | 5 | 21.11 |
