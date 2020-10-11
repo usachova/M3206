@@ -6,5 +6,5 @@
 
 таблица с успеваемостью: [https://docs.google.com/spreadsheets/d/1cpeUvr8NVw4v976tLePUy5JZKGyndIGRbFoJiJSJyoE/edit](https://docs.google.com/spreadsheets/d/1cpeUvr8NVw4v976tLePUy5JZKGyndIGRbFoJiJSJyoE/edit)  
 диск для домашек: [https://drive.google.com/drive/folders/1eIniB9QdWB54GxmWCxx-eRINzdHSeEpD](https://drive.google.com/drive/folders/1eIniB9QdWB54GxmWCxx-eRINzdHSeEpD)  
-лмс: [https://www.cambridgelms.org/main/p/frontpage](https://www.cambridgelms.org/main/p/frontpage)
+lms: [https://www.cambridgelms.org/main/p/frontpage](https://www.cambridgelms.org/main/p/frontpage)
 
