@@ -30,15 +30,11 @@
 телефон: **+79213180371** \(whatsapp\)  
 почта: **tanpankrat@yandex.ru**
 
-{% file src=".gitbook/assets/ryady.pdf" caption="задачник по которому мы учимся" %}
+[учебные материалы](https://drive.google.com/drive/folders/1LcAiNhYUjP6Au3LD4q3pjy7EvXb958Pd)
 
-**типовик 1** \(делать только!!! ряды без 6 задания\), сдать до 8 недели \(**19.10**\):
+\*\*\*\*[**типовик 1**](https://drive.google.com/file/d/1bJOQgioSthndRrg5rH_j6i9UKk9h0-UP/view) \(делать только!!! ряды без 6 задания\), сдать до 8 недели - **19.10**
 
-{% file src=".gitbook/assets/tipovik-1.pdf" caption="" %}
-
-**типовик 2** \(вроде пока не выдан\)
-
-{% file src=".gitbook/assets/tipovik-2.pdf" %}
+\*\*\*\*[**типовик 2**](https://drive.google.com/file/d/1FYZ9gllgrmvT8OtURNTnkNO2n7Zvazmu/view) \(вроде пока не выдан\)
 
 <table>
   <thead>
