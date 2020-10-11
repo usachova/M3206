@@ -30,9 +30,9 @@
 
 | № лабы | дедлайн |
 | :--- | :--- |
-| 1 | ~~9.10~~ |
-| 2 | **23.10** |
-| 3 | **6.11** |
+| [1](https://drive.google.com/file/d/1Ix7LU9z4__JpJvw51dmfDKPZZBLytHwQ/view) | ~~9.10~~ |
+| [2](https://drive.google.com/file/d/1ViC1FsIwxHTf246AyjHJj5EwtJbFWTAe/view) | **23.10** |
+| [3](https://drive.google.com/file/d/1pGCHcygqaV9vym1HIrh8FbEeVCqDdUap/view) | **6.11** |
 | 4 | 20.11 |
 | 5 | 4.12 |
 | 6 | 18.12 |
