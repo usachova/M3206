@@ -36,7 +36,9 @@
 
 {% file src=".gitbook/assets/tipovik-1.pdf" caption="" %}
 
+**типовик 2** \(вроде пока не выдан\)
 
+{% file src=".gitbook/assets/tipovik-2.pdf" %}
 
 <table>
   <thead>
