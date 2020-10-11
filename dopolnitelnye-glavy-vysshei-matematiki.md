@@ -32,7 +32,11 @@
 
 {% file src=".gitbook/assets/ryady.pdf" caption="задачник по которому мы учимся" %}
 
-{% file src=".gitbook/assets/tipovik-1.pdf" caption="типовик 1 \(делать ряды без 6\) сдать до 8 недели \(19.10\)" %}
+типовик 1 \(делать ряды без 6\) сдать до 8 недели \(19.10\):
+
+{% file src=".gitbook/assets/tipovik-1.pdf" caption="" %}
+
+
 
 <table>
   <thead>
