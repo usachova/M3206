@@ -28,11 +28,12 @@
 [условия лабораторных](https://drive.google.com/drive/folders/1-KTjB994_y5f6Es5lCE0y6L4tMRQhMq_)  
 [система для сдачи отчётов](https://reports.artrey.ru/login/?next=/)
 
-{% file src=".gitbook/assets/lab1\_oop.pdf" caption="1. INI файл \[дедлайн: 9.10\]" %}
-
-{% file src=".gitbook/assets/lab2\_oop.pdf" caption="2. магазин \[дедлайн: 23.10\]" %}
-
-{% file src=".gitbook/assets/lab3\_oop.pdf" caption="3. симулятор гонок \[дедлайн: 6.11\]" %}
-
-
+| № лабы | дедлайн |
+| :--- | :--- |
+| 1 | ~~9.10~~ |
+| 2 | **23.10** |
+| 3 | **6.11** |
+| 4 | 20.11 |
+| 5 | 4.12 |
+| 6 | 18.12 |
 
