@@ -49,11 +49,5 @@
 * [группа вк](https://vk.com/lifesafety_itmo)
 * Русанов Дмитрий Юрьевич [https://vk.com/rusanov14](https://vk.com/rusanov14) [rus@kronbars.ru](mailto:rus@kronbars.ru)
 
-### НЕ постоянные ссылки на пары:
-
-лекция\(консультация\) 12.10.2020 11:40   
-ссылка: [https://itmo.zoom.us/j/84199992449?pwd=aTM3b3RabklMWmNrOUlnVUxJVDgvUT09\#success](https://itmo.zoom.us/j/84199992449?pwd=aTM3b3RabklMWmNrOUlnVUxJVDgvUT09#success)  
-идентификатор конференции: 84199992449, пароль: 38616
-
 
 
