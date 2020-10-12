@@ -10,5 +10,11 @@
 
 почта: [silevery@yandex.ru](mailto:silevery@yandex.ru)
 
+## ОГНП-6
+
+### UNIX/Linux системы в инфокоммуникациях
+
+образ виртуальной машины: [http://sdn.ifmo.ru/education/courses/free-libre-and-open-source-software](http://sdn.ifmo.ru/education/courses/free-libre-and-open-source-software)
+
 
 
