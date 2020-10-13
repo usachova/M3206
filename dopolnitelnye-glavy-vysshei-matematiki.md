@@ -32,7 +32,7 @@
 
 [учебные материалы](https://drive.google.com/drive/folders/1LcAiNhYUjP6Au3LD4q3pjy7EvXb958Pd)
 
-\*\*\*\*[**типовик 1**](https://drive.google.com/file/d/1bJOQgioSthndRrg5rH_j6i9UKk9h0-UP/view) \(делать только!!! ряды без 6 задания\), сдать до 8 недели - **19.10**
+\*\*\*\*[**типовик 1**](https://drive.google.com/file/d/1bJOQgioSthndRrg5rH_j6i9UKk9h0-UP/view) \(делать только!!! ряды без 6 задания\), сдать до **27.10**
 
 \*\*\*\*[**типовик 2**](https://drive.google.com/file/d/1FYZ9gllgrmvT8OtURNTnkNO2n7Zvazmu/view) \(вроде пока не выдан\)
 
