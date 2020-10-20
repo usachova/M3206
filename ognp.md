@@ -14,7 +14,8 @@
 
 ### UNIX/Linux системы в инфокоммуникациях
 
-образ виртуальной машины: [http://sdn.ifmo.ru/education/courses/free-libre-and-open-source-software](http://sdn.ifmo.ru/education/courses/free-libre-and-open-source-software)
+образ виртуальной машины: [http://sdn.ifmo.ru/education/courses/free-libre-and-open-source-software](http://sdn.ifmo.ru/education/courses/free-libre-and-open-source-software)  
+презентация: [https://drive.google.com/file/d/18iTSzjrmsjX9FFIKjSifYNmOFT0-lMVC/view](https://drive.google.com/file/d/18iTSzjrmsjX9FFIKjSifYNmOFT0-lMVC/view)
 
 
 
