@@ -2,7 +2,15 @@
 
 ### НЕ постоянные ссылки:
 
+я не смогла найти ссылку на практику 27ого на почте
 
+лекция состоится 30.10.2020 13:30  
+ссылка: [https://itmo.zoom.us/j/89526759029?pwd=akQ0ZUtjcGV3ZGR2SUo4MFV3TnpRZz09](https://itmo.zoom.us/j/89526759029?pwd=akQ0ZUtjcGV3ZGR2SUo4MFV3TnpRZz09)  
+идентификатор конференции: 89526759029, пароль: 1436
+
+практика состоится 03.11.2020 15:20  
+ссылки: [https://itmo.zoom.us/j/89601642606?pwd=WmYwWWY4YlMzSngxc3l6OHlFdmJsdz09](https://itmo.zoom.us/j/89601642606?pwd=WmYwWWY4YlMzSngxc3l6OHlFdmJsdz09)  
+идентификатор конференции: 89601642606, пароль: 71274
 
 ## Лекции
 
