@@ -10,6 +10,8 @@
 
 #### Преподаватель: [Зинчик Александр Адольфович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:105747231495544::NO::PID:105840)
 
+ссылка на практики [тут](https://itmo.zoom.us/j/81010619116?pwd=LzJEM2p2VjM4TE0rcGRnWU04aDBSdz09)
+
 почта: **zinchik\_alex@mail.ru**  
 [сайт с лабами/рубежками/контрольными](https://study.physics.itmo.ru/login/index.php)
 
