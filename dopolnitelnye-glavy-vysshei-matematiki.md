@@ -2,12 +2,6 @@
 
 ### НЕ постоянные ссылки:
 
-я не смогла найти ссылку на практику 27ого на почте
-
-лекция состоится 30.10.2020 13:30  
-ссылка: [https://itmo.zoom.us/j/89526759029?pwd=akQ0ZUtjcGV3ZGR2SUo4MFV3TnpRZz09](https://itmo.zoom.us/j/89526759029?pwd=akQ0ZUtjcGV3ZGR2SUo4MFV3TnpRZz09)  
-идентификатор конференции: 89526759029, пароль: 1436
-
 практика состоится 03.11.2020 15:20  
 ссылки: [https://itmo.zoom.us/j/89601642606?pwd=WmYwWWY4YlMzSngxc3l6OHlFdmJsdz09](https://itmo.zoom.us/j/89601642606?pwd=WmYwWWY4YlMzSngxc3l6OHlFdmJsdz09)  
 идентификатор конференции: 89601642606, пароль: 71274
@@ -26,6 +20,7 @@
 * 6 лекция: материалов не было
 * 7 лекция: материалов не было
 * 8 лекция: материалов не было
+* я сбилась если честно но материалов больше нет и не будет как я поняла
 
 ## Практика
 
@@ -72,7 +67,7 @@
       <td style="text-align:left">&#x2116;260; 263; 264; 269</td>
     </tr>
     <tr>
-      <td style="text-align:left">6.09</td>
+      <td style="text-align:left">6.10</td>
       <td style="text-align:left">&#x2116;310; 312; 320-322</td>
     </tr>
   </tbody>
