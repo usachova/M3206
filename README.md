@@ -36,3 +36,7 @@ description: hello world!
 17. Чулков Руслан Григорьевич 
 18. Шукшина Ирина Алексеевна
 
+### Архив:
+
+[2 семестр](https://docs.google.com/spreadsheets/d/1q6o7wwxOGEd2StBZoHiJmZDp0OSGlWgbQr6DCSISVVc/edit#gid=0)
+
