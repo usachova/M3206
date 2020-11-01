@@ -13,6 +13,8 @@
 * 5 лекция: [запись](https://www.youtube.com/watch?v=uFLMnETwXZw&ab_channel=AlexanderMayatin)
 * 6 лекция: [запись](https://www.youtube.com/watch?v=d61GmuJ_fZ4&ab_channel=AlexanderMayatin)
 
+сайт фитипа: [https://fitp.itmo.ru/](https://fitp.itmo.ru/)
+
 ## Практика
 
 #### Преподаватель: Ефимов Тимур Андреевич
