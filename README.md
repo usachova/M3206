@@ -10,7 +10,7 @@ description: hello world!
 | :--- | :--- |
 | понедельник |  |
 | вторник |  |
-| среда |  |
+| среда | 17:30-19:10 - рубежка по физике![&#x1F60B;](https://vk.com/emoji/e/f09f988b.png)![&#x1F60B;](https://vk.com/emoji/e/f09f988b.png)![&#x1F60B;](https://vk.com/emoji/e/f09f988b.png) |
 | четверг |  |
 | пятница | ООП - 3 лаба |
 | суббота |  |
