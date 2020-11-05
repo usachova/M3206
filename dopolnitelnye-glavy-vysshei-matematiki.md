@@ -2,9 +2,13 @@
 
 ### НЕ постоянные ссылки:
 
-практика состоится 03.11.2020 15:20  
-ссылки: [https://itmo.zoom.us/j/89601642606?pwd=WmYwWWY4YlMzSngxc3l6OHlFdmJsdz09](https://itmo.zoom.us/j/89601642606?pwd=WmYwWWY4YlMzSngxc3l6OHlFdmJsdz09)  
-идентификатор конференции: 89601642606, пароль: 71274
+практика 10.11.2020 15:20  
+ссылка: [https://itmo.zoom.us/j/88492908769?pwd=dG9OaDBjN0pYbVk3MTF1UHlicTIyUT09](https://itmo.zoom.us/j/88492908769?pwd=dG9OaDBjN0pYbVk3MTF1UHlicTIyUT09)  
+идентификатор конференции: 88492908769, пароль: 44401
+
+практика 17.11.2020 15:20  
+ссылка: [https://itmo.zoom.us/j/83565016235?pwd=YWJtVjAyZzdzUm1YVTF0Ynp1UVpVdz09](https://itmo.zoom.us/j/83565016235?pwd=YWJtVjAyZzdzUm1YVTF0Ynp1UVpVdz09)  
+идентификатор конференции: 83565016235, пароль: 115734
 
 ## Лекции
 
