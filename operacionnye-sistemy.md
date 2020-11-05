@@ -12,6 +12,9 @@
 * 4 лекция: [запись](https://www.youtube.com/watch?v=VDRD5lhV5OQ&ab_channel=AlexanderMayatin)
 * 5 лекция: [запись](https://www.youtube.com/watch?v=uFLMnETwXZw&ab_channel=AlexanderMayatin)
 * 6 лекция: [запись](https://www.youtube.com/watch?v=d61GmuJ_fZ4&ab_channel=AlexanderMayatin)
+* 7 лекция: [запись](https://www.youtube.com/watch?v=YziljB7DJgI&ab_channel=AlexanderMayatin)
+* 8 лекция: [запись](https://www.youtube.com/watch?v=6MSSc4bOtFs&ab_channel=AlexanderMayatin)
+* 9 лекция: [запись](https://www.youtube.com/watch?v=1yw9L_1YNS0&ab_channel=AlexanderMayatin)
 
 сайт фитипа: [https://fitp.itmo.ru/](https://fitp.itmo.ru/)
 
