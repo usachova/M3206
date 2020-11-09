@@ -6,9 +6,17 @@
 ссылка: [https://itmo.zoom.us/j/88492908769?pwd=dG9OaDBjN0pYbVk3MTF1UHlicTIyUT09](https://itmo.zoom.us/j/88492908769?pwd=dG9OaDBjN0pYbVk3MTF1UHlicTIyUT09)  
 идентификатор конференции: 88492908769, пароль: 44401
 
+лекция 13.11.2020 13:30  
+ссылка: [https://itmo.zoom.us/j/84822018692?pwd=UTc2UHlFRXdtbGh4NlFJTnhXd3RnQT09](https://itmo.zoom.us/j/84822018692?pwd=UTc2UHlFRXdtbGh4NlFJTnhXd3RnQT09)  
+идентификатор конференции: 84822018692, пароль: 123776
+
 практика 17.11.2020 15:20  
 ссылка: [https://itmo.zoom.us/j/83565016235?pwd=YWJtVjAyZzdzUm1YVTF0Ynp1UVpVdz09](https://itmo.zoom.us/j/83565016235?pwd=YWJtVjAyZzdzUm1YVTF0Ynp1UVpVdz09)  
 идентификатор конференции: 83565016235, пароль: 115734
+
+лекция 20.11.2020 13:30  
+ссылка: [https://itmo.zoom.us/j/89896952008?pwd=K2x6UHAvUE1OOWJTaGdldklmRTg5UT09](https://itmo.zoom.us/j/89896952008?pwd=K2x6UHAvUE1OOWJTaGdldklmRTg5UT09)  
+идентификатор конференции: 89896952008, пароль: 171370
 
 ## Лекции
 
