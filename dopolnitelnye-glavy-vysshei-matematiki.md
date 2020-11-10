@@ -47,7 +47,7 @@
 
 \*\*\*\*[**типовик 1**](https://drive.google.com/file/d/1bJOQgioSthndRrg5rH_j6i9UKk9h0-UP/view) \(делать только!!! ряды без 6 задания\), сдать до **27.10**
 
-\*\*\*\*[**типовик 2**](https://drive.google.com/file/d/1FYZ9gllgrmvT8OtURNTnkNO2n7Zvazmu/view) \(**6ое** из прошлого типовика + **3-5** из этого\), дедлайн **23.12**
+\*\*\*\*[**типовик 2**](https://drive.google.com/file/d/1FYZ9gllgrmvT8OtURNTnkNO2n7Zvazmu/view) \(**6ое** из прошлого типовика + **3-5** из этого\), сдать до **23.12**
 
 <table>
   <thead>
