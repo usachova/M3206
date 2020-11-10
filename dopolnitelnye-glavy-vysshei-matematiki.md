@@ -24,6 +24,8 @@
 
 [группа вконтакте](https://vk.com/club193548696)
 
+[вопросы к экзамену](https://drive.google.com/file/d/1ByjfcUE_J2aznEIIzQzi-uyj9aMOrhd6/view)
+
 * 1 лекция: [материалы](https://vk.com/wall-193548696_62)
 * 2 лекция: [материалы](https://vk.com/wall-193548696_72)
 * 3 лекция: [материалы](https://vk.com/wall-193548696_74)
@@ -85,6 +87,10 @@
     <tr>
       <td style="text-align:left">3.11</td>
       <td style="text-align:left">&#x2116; 3907; 3908; 3910; 3916</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10.11</td>
+      <td style="text-align:left">&#x2116;</td>
     </tr>
   </tbody>
 </table>
