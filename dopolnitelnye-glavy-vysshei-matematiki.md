@@ -2,10 +2,6 @@
 
 ### НЕ постоянные ссылки:
 
-лекция 13.11.2020 13:30  
-ссылка: [https://itmo.zoom.us/j/84822018692?pwd=UTc2UHlFRXdtbGh4NlFJTnhXd3RnQT09](https://itmo.zoom.us/j/84822018692?pwd=UTc2UHlFRXdtbGh4NlFJTnhXd3RnQT09)  
-идентификатор конференции: 84822018692, пароль: 123776
-
 практика 17.11.2020 15:20  
 ссылка: [https://itmo.zoom.us/j/83565016235?pwd=YWJtVjAyZzdzUm1YVTF0Ynp1UVpVdz09](https://itmo.zoom.us/j/83565016235?pwd=YWJtVjAyZzdzUm1YVTF0Ynp1UVpVdz09)  
 идентификатор конференции: 83565016235, пароль: 115734
