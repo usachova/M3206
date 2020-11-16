@@ -4,9 +4,10 @@
 
 #### Преподаватель: Иванов Александр Сергеевич
 
-[конференция в zoom](https://itmo.zoom.us/j/9151124949)
+[конференция в zoom](https://itmo.zoom.us/j/9151124949) //больше не рабочая
 
 [записи лекций](https://yadi.sk/d/iGz5-Vunb5dKHA?w=1)  
+[презентации](https://drive.google.com/drive/folders/1qvI4ni8HoIOSDKjV4QiZ_6zkIS1vuqe3)  
 [дискорд с преподавателями](https://discord.gg/gKdnQSS)
 
 [Литература](https://drive.google.com/drive/folders/1q4x9Tc9THbZ3Y84ECoLom14fahGBEXjE):  
