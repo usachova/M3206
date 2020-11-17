@@ -2,9 +2,7 @@
 
 ### НЕ постоянные ссылки:
 
-практика 17.11.2020 15:20  
-ссылка: [https://itmo.zoom.us/j/83565016235?pwd=YWJtVjAyZzdzUm1YVTF0Ynp1UVpVdz09](https://itmo.zoom.us/j/83565016235?pwd=YWJtVjAyZzdzUm1YVTF0Ynp1UVpVdz09)  
-идентификатор конференции: 83565016235, пароль: 115734
+практика пока хулиганы хулиганят: [https://vk.com/away.php?to=https%3A%2F%2Fus02web.zoom.us%2Fj%2F2123574361%3Fpwd%3DazN0MnEyc09kVE0ybVp1M0pTdHhhUT09&cc\_key=](https://vk.com/away.php?to=https%3A%2F%2Fus02web.zoom.us%2Fj%2F2123574361%3Fpwd%3DazN0MnEyc09kVE0ybVp1M0pTdHhhUT09&cc_key=)
 
 лекция 20.11.2020 13:30  
 ссылка: [https://itmo.zoom.us/j/89896952008?pwd=K2x6UHAvUE1OOWJTaGdldklmRTg5UT09](https://itmo.zoom.us/j/89896952008?pwd=K2x6UHAvUE1OOWJTaGdldklmRTg5UT09)  
