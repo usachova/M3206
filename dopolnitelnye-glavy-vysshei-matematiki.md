@@ -8,6 +8,14 @@
 ссылка: [https://itmo.zoom.us/j/89896952008?pwd=K2x6UHAvUE1OOWJTaGdldklmRTg5UT09](https://itmo.zoom.us/j/89896952008?pwd=K2x6UHAvUE1OOWJTaGdldklmRTg5UT09)  
 идентификатор конференции: 89896952008, пароль: 171370
 
+практика 24.11.2020 15:20  
+ссылка: [https://itmo.zoom.us/j/86496432836?pwd=WXFmbUVtemcra1o5K1VyT2lPTkdGUT09](https://itmo.zoom.us/j/86496432836?pwd=WXFmbUVtemcra1o5K1VyT2lPTkdGUT09)  
+идентификатор конференции: 86496432836, пароль: 140068
+
+практика 01.12.2020 15:20  
+ссылка: [https://itmo.zoom.us/j/85619272476?pwd=RExNTCtWMnQyVlNIQ3FJSDZ1cjJvQT09](https://itmo.zoom.us/j/85619272476?pwd=RExNTCtWMnQyVlNIQ3FJSDZ1cjJvQT09)  
+идентификатор конференции: 85619272476, пароль: 176397
+
 ## Лекции
 
 #### Преподавательница: [Исаева Татьяна Тимофеевна](https://isu.ifmo.ru/pls/apex/f?p=2143:3:105747231495544::NO::PID:146553)
