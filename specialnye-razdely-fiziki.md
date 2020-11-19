@@ -29,5 +29,5 @@
 #### Моделирование
 
 1. одно из списка: [https://drive.google.com/file/d/12D9tmZhQwhO\_wDXzq\_oF5rtIqUHw5Yu0/view](https://drive.google.com/file/d/12D9tmZhQwhO_wDXzq_oF5rtIqUHw5Yu0/view)
-2. делаем моделирование, описанное в лабе 4.03\(не v\) под "шапочками"
+2. делаем моделирование, описанное в лабе [4.03](https://study.physics.itmo.ru/pluginfile.php/4244/mod_resource/content/7/NewtonRing_a5.pdf)\(не v\) под "шапочками"
 
