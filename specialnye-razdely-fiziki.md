@@ -21,4 +21,7 @@
 | [1.05](https://study.physics.itmo.ru/course/view.php?id=95&section=7) Исследование колебаний физического маятника | [3.11V](https://study.physics.itmo.ru/course/view.php?id=74&section=12) Вынужденные электромагнитные колебания в последовательном колебательном контуре |
 | [3.10](https://study.physics.itmo.ru/course/view.php?id=74&section=11) Свободные затухающие электромагнитные колебания | 1.27V Вынужденные гармонические крутильные колебания \(будет доступна позже\) |
 | [3.11](https://study.physics.itmo.ru/course/view.php?id=74&section=12) Вынужденные электромагнитные колебания в последовательном колебательном контуре | [1.28V](https://study.physics.itmo.ru/course/view.php?id=127&section=6) Связанные колебания |
+| 4.03 | 4.03v |
+| 4.09 | 4.11v  или \(на выбор\) 4.12v  |
+| TODO: моделирование внутри 4.03 |  |
 
