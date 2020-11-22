@@ -27,7 +27,8 @@
 [табличка с баллами](https://docs.google.com/spreadsheets/d/1n9YydxIeP9eLmR3dSG5WHvcDCj82FvZ2w8F5NztQ8YM/edit#gid=0
 )  
 [папка с условиями лабораторных \(+ прочие файлы\)](https://drive.google.com/drive/folders/1wgx3Y3Rx9KtK-Yoeun9vSh-GfVFlxUnW
-)
+)  
+[ссылка на лист с условиями](https://docs.google.com/spreadsheets/d/1n9YydxIeP9eLmR3dSG5WHvcDCj82FvZ2w8F5NztQ8YM/edit#gid=1627091873)
 
 [конференция в zoom](https://itmo.zoom.us/j/9151124949)
 
