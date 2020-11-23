@@ -58,8 +58,7 @@ description: hello world!
     </tr>
     <tr>
       <td style="text-align:left">&#x441;&#x443;&#x431;&#x431;&#x43E;&#x442;&#x430;</td>
-      <td style="text-align:left">? &#x442;&#x443;&#x442;-&#x434;&#x43E;&#x43B;&#x436;&#x43D;&#x44B;-&#x431;&#x44B;&#x43B;&#x438;-&#x431;&#x44B;&#x442;&#x44C;-&#x43E;&#x441;&#x438;-5
-        ?</td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
