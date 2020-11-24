@@ -4,13 +4,15 @@
 
 практика пока хулиганы хулиганят: [https://vk.com/away.php?to=https%3A%2F%2Fus02web.zoom.us%2Fj%2F2123574361%3Fpwd%3DazN0MnEyc09kVE0ybVp1M0pTdHhhUT09&cc\_key=](https://vk.com/away.php?to=https%3A%2F%2Fus02web.zoom.us%2Fj%2F2123574361%3Fpwd%3DazN0MnEyc09kVE0ybVp1M0pTdHhhUT09&cc_key=)
 
-лекция 20.11.2020 13:30  
-ссылка: [https://itmo.zoom.us/j/89896952008?pwd=K2x6UHAvUE1OOWJTaGdldklmRTg5UT09](https://itmo.zoom.us/j/89896952008?pwd=K2x6UHAvUE1OOWJTaGdldklmRTg5UT09)  
-идентификатор конференции: 89896952008, пароль: 171370
+**ссылки из ису:**
 
 практика 24.11.2020 15:20  
 ссылка: [https://itmo.zoom.us/j/86496432836?pwd=WXFmbUVtemcra1o5K1VyT2lPTkdGUT09](https://itmo.zoom.us/j/86496432836?pwd=WXFmbUVtemcra1o5K1VyT2lPTkdGUT09)  
 идентификатор конференции: 86496432836, пароль: 140068
+
+лекция 27.11.2020 13:30  
+ссылка: [https://itmo.zoom.us/j/86191500545?pwd=dUZXL3oycVNwUHFHZURsVEthZHBndz09](https://itmo.zoom.us/j/86191500545?pwd=dUZXL3oycVNwUHFHZURsVEthZHBndz09)  
+идентификатор конференции: 86191500545, пароль: 129036
 
 практика 01.12.2020 15:20  
 ссылка: [https://itmo.zoom.us/j/85619272476?pwd=RExNTCtWMnQyVlNIQ3FJSDZ1cjJvQT09](https://itmo.zoom.us/j/85619272476?pwd=RExNTCtWMnQyVlNIQ3FJSDZ1cjJvQT09)  
