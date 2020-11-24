@@ -92,6 +92,10 @@
       <td style="text-align:left">17.11</td>
       <td style="text-align:left">&#x2116;4051-4053</td>
     </tr>
+    <tr>
+      <td style="text-align:left">24.11</td>
+      <td style="text-align:left">&#x2116;4213, 4214</td>
+    </tr>
   </tbody>
 </table>
 
