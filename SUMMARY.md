@@ -15,3 +15,7 @@
 * [Физическая культура](fizicheskaya-kultura.md)
 * [ОГНП](ognp.md)
 
+## архив
+
+* [2 семестр](arkhiv/2-semestr.md)
+
