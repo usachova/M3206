@@ -6,10 +6,6 @@
 
 **ссылки из ису:**
 
-лекция 27.11.2020 13:30  
-ссылка: [https://itmo.zoom.us/j/86191500545?pwd=dUZXL3oycVNwUHFHZURsVEthZHBndz09](https://itmo.zoom.us/j/86191500545?pwd=dUZXL3oycVNwUHFHZURsVEthZHBndz09)  
-идентификатор конференции: 86191500545, пароль: 129036
-
 практика 01.12.2020 15:20  
 ссылка: [https://itmo.zoom.us/j/85619272476?pwd=RExNTCtWMnQyVlNIQ3FJSDZ1cjJvQT09](https://itmo.zoom.us/j/85619272476?pwd=RExNTCtWMnQyVlNIQ3FJSDZ1cjJvQT09)  
 идентификатор конференции: 85619272476, пароль: 176397
