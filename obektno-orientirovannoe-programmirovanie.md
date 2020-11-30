@@ -18,6 +18,9 @@
 
 сайт фитипа: [https://fitp.itmo.ru/](https://fitp.itmo.ru/)
 
+[https://refactoring.guru/ru](https://refactoring.guru/ru)  
+[https://metanit.com/sharp/patterns/](https://metanit.com/sharp/patterns/)
+
 ## Практика
 
 #### Преподаватель: Макаревич Роман Дмитриевич
