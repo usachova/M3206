@@ -90,7 +90,7 @@
     </tr>
     <tr>
       <td style="text-align:left">1.12</td>
-      <td style="text-align:left">&#x2116;4257</td>
+      <td style="text-align:left">&#x2116;4257; 4310; 4312; 4313</td>
     </tr>
   </tbody>
 </table>
