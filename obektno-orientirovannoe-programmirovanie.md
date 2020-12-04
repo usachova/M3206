@@ -40,6 +40,6 @@
 | [2](https://drive.google.com/file/d/1ViC1FsIwxHTf246AyjHJj5EwtJbFWTAe/view) | ~~23.10~~ |
 | [3](https://drive.google.com/file/d/1pGCHcygqaV9vym1HIrh8FbEeVCqDdUap/view) | ~~6.11~~ |
 | [4](https://drive.google.com/file/d/1nxHyGmKlXNUQh5bV5D33lnXejEpXcVFn/view) | ~~20.11~~ |
-| [5](https://drive.google.com/file/d/1MsF9qSQB_Zx_ISSFODS-3g_tx6FE6xnq/view) | **4.12** |
-| \*\*\*\*[6](https://drive.google.com/file/d/1vm8SiVLU1cx9aWHdKu1Sb1oBrvRSr9Ue/view) | 18.12 |
+| [5](https://drive.google.com/file/d/1MsF9qSQB_Zx_ISSFODS-3g_tx6FE6xnq/view) | ~~4.12~~ |
+| \*\*\*\*[6](https://drive.google.com/file/d/1vm8SiVLU1cx9aWHdKu1Sb1oBrvRSr9Ue/view) | **18.12** |
 
