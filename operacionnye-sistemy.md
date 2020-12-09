@@ -18,6 +18,8 @@
 
 сайт фитипа: [https://fitp.itmo.ru/](https://fitp.itmo.ru/)
 
+[конспект](https://docs.google.com/document/d/1ywCeuZLNm8hPLbIRfp_qVuOgFM0a5x0MwR1ST97T6yM/edit) 2017-18г
+
 ## Практика
 
 #### Преподаватель: Ефимов Тимур Андреевич
