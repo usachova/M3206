@@ -20,6 +20,8 @@
 
 [конспект](https://docs.google.com/document/d/1ywCeuZLNm8hPLbIRfp_qVuOgFM0a5x0MwR1ST97T6yM/edit) 2017-18г
 
+[вопросы к экзамену](https://docs.google.com/document/d/1S-ebvyucuOL8S-zCVCtgXICXUsE7dzIg/edit?rtpof=true)
+
 ## Практика
 
 #### Преподаватель: Ефимов Тимур Андреевич
