@@ -4,12 +4,6 @@
 
 практика пока хулиганы хулиганят: [https://vk.com/away.php?to=https%3A%2F%2Fus02web.zoom.us%2Fj%2F2123574361%3Fpwd%3DazN0MnEyc09kVE0ybVp1M0pTdHhhUT09&cc\_key=](https://vk.com/away.php?to=https%3A%2F%2Fus02web.zoom.us%2Fj%2F2123574361%3Fpwd%3DazN0MnEyc09kVE0ybVp1M0pTdHhhUT09&cc_key=)
 
-**ссылки из ису:**
-
-практика 01.12.2020 15:20  
-ссылка: [https://itmo.zoom.us/j/85619272476?pwd=RExNTCtWMnQyVlNIQ3FJSDZ1cjJvQT09](https://itmo.zoom.us/j/85619272476?pwd=RExNTCtWMnQyVlNIQ3FJSDZ1cjJvQT09)  
-идентификатор конференции: 85619272476, пароль: 176397
-
 ## Лекции
 
 #### Преподавательница: [Исаева Татьяна Тимофеевна](https://isu.ifmo.ru/pls/apex/f?p=2143:3:105747231495544::NO::PID:146553)
