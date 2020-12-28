@@ -10,6 +10,8 @@
 [презентации](https://drive.google.com/drive/folders/1qvI4ni8HoIOSDKjV4QiZ_6zkIS1vuqe3)  
 [дискорд с преподавателями](https://discord.gg/gKdnQSS)
 
+[билеты к экзамену](https://docs.google.com/document/d/1ldXtUY9I-qzolhb-BApU97QB99oJ2NkRT_y_Palm2IA/edit)
+
 [Литература](https://drive.google.com/drive/folders/1q4x9Tc9THbZ3Y84ECoLom14fahGBEXjE):  
 М. Фаулер "Рефакторинг. Улучшение существующего кода"   
 С. Макконнелл "Совершенный код"   
