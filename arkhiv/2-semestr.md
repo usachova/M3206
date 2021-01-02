@@ -18,8 +18,7 @@
 | **бд** | лабы | [https://drive.google.com/drive/folders/1l2hp\_XM-NbOojej3WOfCPEsgW7oghMlv?usp=sharing](https://drive.google.com/drive/folders/1l2hp_XM-NbOojej3WOfCPEsgW7oghMlv?usp=sharing) |
 | **кгиг** | лабы для всех | [https://drive.google.com/drive/folders/1-F2plH1k2DyPLxT9ew6nKNoybW7dYBHo](https://drive.google.com/drive/folders/1-F2plH1k2DyPLxT9ew6nKNoybW7dYBHo) |
 |  | лабы не для всех | [https://docs.google.com/document/d/1cL306pi86FKVai-RqRWP3itUr140pZ3rytfgfUx\_Z24/edit](https://docs.google.com/document/d/1cL306pi86FKVai-RqRWP3itUr140pZ3rytfgfUx_Z24/edit) |
-| прога | лабы и лекции | [https://drive.google.com/open?id=1tzqthKbqVosJhoZFaAvG7jZvCfJ8ithB](https://drive.google.com/open?id=1tzqthKbqVosJhoZFaAvG7jZvCfJ8ithB) |
-|  |  | [https://drive.google.com/drive/folders/1LZiqNHohOUkQ6UFvrjk2HxSIp1aPlJnA](https://drive.google.com/drive/folders/1LZiqNHohOUkQ6UFvrjk2HxSIp1aPlJnA) |
+| **прога** | лабы и лекции | [https://drive.google.com/open?id=1tzqthKbqVosJhoZFaAvG7jZvCfJ8ithB](https://drive.google.com/open?id=1tzqthKbqVosJhoZFaAvG7jZvCfJ8ithB) |
 
 [вопросы к экзам](https://drive.google.com/drive/folders/1LZiqNHohOUkQ6UFvrjk2HxSIp1aPlJnA)
 
