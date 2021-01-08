@@ -28,6 +28,8 @@ description: hello world!
 | 22.01 | зачёт | бжд |
 | 26.01 | экзамен | вышмат |
 
+ссылки на некоторые из экзаменов: [https://fitp.itmo.ru/p/autumn-2020/exams-2](https://fitp.itmo.ru/p/autumn-2020/exams-2)
+
 ### Список группы
 
 1. Бабкина Дарья Александровна 
