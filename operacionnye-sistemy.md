@@ -23,6 +23,8 @@
 * 15 лекция: [запись](https://www.youtube.com/watch?v=Jb_FvFrVs_c&ab_channel=AlexanderMayatin)
 * 16 лекция: [запись](https://www.youtube.com/watch?v=3pwIAAlOGX0&ab_channel=AlexanderMayatin)
 
+[плейлист](https://www.youtube.com/playlist?list=PLed9wG_KpqYyQoxax3sGLWx9o8q2NuX-y) со всеми лекциями подряд
+
 сайт фитипа: [https://fitp.itmo.ru/](https://fitp.itmo.ru/)
 
 [конспект](https://docs.google.com/document/d/1ywCeuZLNm8hPLbIRfp_qVuOgFM0a5x0MwR1ST97T6yM/edit) 2017-18г
