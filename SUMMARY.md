@@ -11,7 +11,6 @@
 * [Объектно-ориентированное программирование](obektno-orientirovannoe-programmirovanie.md)
 * [Операционные системы](operacionnye-sistemy.md)
 * [Специальные разделы физики](specialnye-razdely-fiziki.md)
-* [ОГНП](ognp.md)
 
 ## архив
 
