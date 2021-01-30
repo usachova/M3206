@@ -6,7 +6,6 @@
 
 ---
 
-* [Безопасность жизнедеятельности](bezopasnost-zhiznedeyatelnosti.md)
 * [Дополнительные главы высшей математики](dopolnitelnye-glavy-vysshei-matematiki.md)
 * [Объектно-ориентированное программирование](obektno-orientirovannoe-programmirovanie.md)
 * [Операционные системы](operacionnye-sistemy.md)
