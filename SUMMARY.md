@@ -6,8 +6,6 @@
 
 ---
 
-* [Дополнительные главы высшей математики](dopolnitelnye-glavy-vysshei-matematiki.md)
-* [Объектно-ориентированное программирование](obektno-orientirovannoe-programmirovanie.md)
 * [Операционные системы](operacionnye-sistemy.md)
 * [Специальные разделы физики](specialnye-razdely-fiziki.md)
 
