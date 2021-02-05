@@ -4,6 +4,8 @@
 
 ## предметы <a id="todo"></a>
 
+* [Прикладная математика](todo/prikladnaya-matematika.md)
+
 ## архив
 
 * [2 семестр](arkhiv/2-semestr.md)
