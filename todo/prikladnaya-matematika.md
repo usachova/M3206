@@ -4,7 +4,8 @@
 
 #### Преподавательница: [Москаленко Мария Александровна](https://isu.ifmo.ru/pls/apex/f?p=2143:3:104182956996707::NO::PID:151538)
 
-[чат в телеграме](https://t.me/joinchat/IeGCs5qKWRSifE53)
+[Материалы курса](http://mathdep.ifmo.ru/app_math_3/)   
+[Telegram-канал с важной информацией!](https://t.me/joinchat/IeGCs5qKWRSifE53)
 
 ## Практика
 
