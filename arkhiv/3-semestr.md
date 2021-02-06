@@ -22,8 +22,6 @@ lms: [https://www.cambridgelms.org/main/p/frontpage](https://www.cambridgelms.or
 
 #### Преподаватель: [Зинчик Александр Адольфович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:105747231495544::NO::PID:105840)
 
-ссылка на лекции [тут](https://itmo.zoom.us/j/87044790587?pwd=L3JIcnNDeDY4ZU91VnFqY0xVYUw3QT09)
-
 ### Практика
 
 #### Преподаватель: [Зинчик Александр Адольфович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:105747231495544::NO::PID:105840)
