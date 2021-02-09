@@ -10,5 +10,6 @@
 
 #### Преподаватель: [Смирнов Станислав Михайлович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:241783)
 
-[Конференция Zoom](https://itmo.zoom.us/j/6550831799)
+[Конференция Zoom](https://itmo.zoom.us/j/6550831799)  
+[чатик в телеге](https://t.me/joinchat/IBsE-YXbcDvYx2nK)
 
