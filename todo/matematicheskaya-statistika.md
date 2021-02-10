@@ -6,6 +6,12 @@
 
 ​[группа вконтакте](https://vk.com/club193548696)
 
+[вопросы к экзамену](https://drive.google.com/file/d/1Kw7KPW89CJxEkxjfopH5Nbfu8p-Ca3hT/view?usp=sharing)  
+[типовик](https://drive.google.com/file/d/1hShWYtA5lpneRzX6UEkFRYzgbtlDIWSD/view)  
+[рпд дисциплины](https://docs.google.com/document/d/1_ndQigkP6koiwACN9-0gRBcCWq7t1HWs/edit)  
+[методические указания по решению задач](https://drive.google.com/file/d/1apxGPFTNQvzCDytnK8YIBzB3sa0KW_eX/view)  
+[основной учебник по ТВ и МС](https://drive.google.com/file/d/1DMVOnxebq1tbM-7WtCTRaG0KQnYHRbS3/view)
+
 ## Практика
 
 #### Преподавательница: [Милованович Екатерина Воиславовна](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:106026)
