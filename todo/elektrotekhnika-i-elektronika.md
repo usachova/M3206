@@ -4,11 +4,22 @@
 
 #### Преподавательница: [Никитина Мария Владимировна](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:111796)
 
+почта: [mvnikitina@itmo.ru](mailto:mvnikitina@itmo.ru)
+
+* [учебное пособие](https://drive.google.com/file/d/14gdTlNOeLpkL_jI3Sw7evWKib9WBKuYw/view), рекомендуемое в качестве учебника по модулю «Электротехника»
+* [примерный план](https://drive.google.com/file/d/14GZ5tKQ4mGAu_tbxD1ZtbPl-rgAGY5lE/view) занятий по модулю «Электротехника», формирование оценки, требования к оформлению домашних заданий и отчетов по лабораторным работам, распределение вариантов домашних заданий и пр.
+* [вводная лекция о структуре дисциплины](https://drive.google.com/file/d/1P6YoE0JV1NA2DPAJsM9s9Gwv_drHy1HX/view)
+* [материалы лекции 1](https://drive.google.com/file/d/1WJt5p2m12F5xc5Yk0nTmIngniCm9XXiN/view)
+
 #### Преподаватель: [Поляков Николай Александрович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:137894)
 
 ## Практика
 
 #### Преподавательница: [Никитина Мария Владимировна](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:111796)
+
+* [параметры цепей для выполнения домашних заданий](https://drive.google.com/file/d/1KFJsFoFHU7fJjaeNyg4H1JgU5pJLN5hB/view)
+* [методические указания к выполнению лабораторных работ](https://drive.google.com/file/d/1lRcMQX93qdbbQGIUX1amCNFeYCescBTQ/view)
+* [материалы лаб. занятия 1](https://drive.google.com/file/d/1BkVRHXZbfbv4uQJ-FRcJUVrEkMjhz25P/view)
 
 #### Преподаватель: [Поляков Николай Александрович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:137894)
 
