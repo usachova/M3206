@@ -8,7 +8,8 @@
 
 [рпд дисциплины](https://docs.google.com/document/d/1_ndQigkP6koiwACN9-0gRBcCWq7t1HWs/edit)  
 [вопросы к экзамену](https://drive.google.com/file/d/1Kw7KPW89CJxEkxjfopH5Nbfu8p-Ca3hT/view?usp=sharing)  
-[основной учебник по ТВ и МС](https://drive.google.com/file/d/1DMVOnxebq1tbM-7WtCTRaG0KQnYHRbS3/view)
+[основной учебник по ТВ и МС](https://drive.google.com/file/d/1DMVOnxebq1tbM-7WtCTRaG0KQnYHRbS3/view)  
+[тот же учебник в пдф](https://drive.google.com/file/d/1dhleMvlnW961Xcff4ujPDcK0Ent4Mbp5/view)
 
 ## Практика
 
