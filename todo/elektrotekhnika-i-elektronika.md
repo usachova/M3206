@@ -21,5 +21,7 @@
 * [методические указания к выполнению лабораторных работ](https://drive.google.com/file/d/1lRcMQX93qdbbQGIUX1amCNFeYCescBTQ/view)
 * [материалы лаб. занятия 1](https://drive.google.com/file/d/1BkVRHXZbfbv4uQJ-FRcJUVrEkMjhz25P/view)
 
+[плейлист с записями практик](https://www.youtube.com/playlist?list=PLzKRKyH3GUxQe_s1TtJgiRJl80ZzneMPZ)
+
 #### Преподаватель: [Поляков Николай Александрович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:137894)
 
