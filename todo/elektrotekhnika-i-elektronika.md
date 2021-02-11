@@ -23,5 +23,9 @@
 
 [плейлист с записями практик](https://www.youtube.com/playlist?list=PLzKRKyH3GUxQe_s1TtJgiRJl80ZzneMPZ)
 
+[ответы на курс](https://drive.google.com/drive/folders/13S-tqWFHFhn3z9H8-HQSyroNaNADm4pR) "линейные электрические цепи"
+
 #### Преподаватель: [Поляков Николай Александрович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:137894)
+
+[ответы на курс](https://drive.google.com/drive/folders/1dMsylPI5e06jaE-F7WPbjWT6mMuj_IyM) "цифровая схемотехника"
 
