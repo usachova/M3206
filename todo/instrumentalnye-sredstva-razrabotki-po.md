@@ -13,3 +13,5 @@
 [Конференция Zoom](https://itmo.zoom.us/j/6550831799)  
 [чатик в телеге](https://t.me/joinchat/IBsE-YXbcDvYx2nK)
 
+[условия лаб](https://drive.google.com/file/d/1PD-n0kHWzuSgxBAsRhXcb_9gdATWTe3A/view?usp=sharing)
+
