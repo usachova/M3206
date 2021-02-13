@@ -11,6 +11,8 @@
 [основной учебник по ТВ и МС](https://drive.google.com/file/d/1DMVOnxebq1tbM-7WtCTRaG0KQnYHRbS3/view)  
 [тот же учебник в пдф](https://drive.google.com/file/d/1dhleMvlnW961Xcff4ujPDcK0Ent4Mbp5/view)
 
+[конспектик от никитки например](https://drive.google.com/file/d/1kp3zKvMYax1dDuLtV85lU1hUvPtdHJpt/view)
+
 ## Практика
 
 #### Преподавательница: [Милованович Екатерина Воиславовна](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:106026)
