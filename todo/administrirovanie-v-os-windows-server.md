@@ -12,5 +12,5 @@
 
 #### Преподаватель: Матвеев Алексей Вадимович
 
-[Discord](https://discord.gg/psdvVxYU)
+[Discord](https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2FM2X94XJp&cc_key=)
 
