@@ -14,3 +14,7 @@
 
 [Discord](https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2FM2X94XJp&cc_key=)
 
+| лаба | дедлайн |
+| :--- | :--- |
+| [1](https://vk.com/doc323697639_588846789?hash=497a629f5e82b247da&dl=0819be40e6f360a43ahttps://vk.com/doc323697639_588846789?hash=497a629f5e82b247da&dl=0819be40e6f360a43a) | 02.03 |
+
