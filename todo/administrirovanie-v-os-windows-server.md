@@ -8,6 +8,8 @@
 [Telegram](https://t.me/ITSMDao)   
 [Telegram-чат](https://t.me/ITSMDaoChat)
 
+1. первая лекция: [видео](https://yadi.sk/i/Ugg5qP1WftF7Pw), [презентация](https://drive.google.com/file/d/17Df7Zn6earfCEB4-WWq-wbrjW4a7jxDq/view) 
+
 ## Практика
 
 #### Преподаватель: Матвеев Алексей Вадимович
@@ -16,5 +18,6 @@
 
 | лаба | дедлайн |
 | :--- | :--- |
-| [1](https://vk.com/doc323697639_588846789?hash=497a629f5e82b247da&dl=0819be40e6f360a43ahttps://vk.com/doc323697639_588846789?hash=497a629f5e82b247da&dl=0819be40e6f360a43a) | 02.03 |
+| [1](https://docs.google.com/document/d/1fq23Y7y4b5CqXv57lEvxWps_OFsMsUKE/edit) | 02.03 |
+| [2](https://docs.google.com/document/d/1-WJeCiLpRSjYH0LuHcTrcb4skwdq66dM/edit) |  |
 
