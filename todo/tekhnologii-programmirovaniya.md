@@ -12,5 +12,7 @@
 
 [Конференция Zoom](https://itmo.zoom.us/j/6709212472)
 
+[вроде что-то по курсу](https://www.notion.so/Java-basics-2021-9bf97b02876b40469f3ded4f56b84f2f)
+
 
 
