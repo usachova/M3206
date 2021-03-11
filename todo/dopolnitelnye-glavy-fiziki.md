@@ -6,6 +6,8 @@
 
 [ссылка на пару](https://itmo.zoom.us/j/87044790587?pwd=L3JIcnNDeDY4ZU91VnFqY0xVYUw3QT09)
 
+[информация по курсу](https://drive.google.com/file/d/16ry7skKa05jUkkeLP_PF1lhgPGwwifFO/view)
+
 ## Практика
 
 #### Преподаватель: [Зинчик Александр Адольфович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:105747231495544::NO::PID:105840)
