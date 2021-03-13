@@ -19,5 +19,5 @@
 | лаба | дедлайн |
 | :--- | :--- |
 | [1](https://docs.google.com/document/d/1fq23Y7y4b5CqXv57lEvxWps_OFsMsUKE/edit) | 02.03 |
-| [2](https://docs.google.com/document/d/1-WJeCiLpRSjYH0LuHcTrcb4skwdq66dM/edit) |  |
+| [2](https://docs.google.com/document/d/1-WJeCiLpRSjYH0LuHcTrcb4skwdq66dM/edit) | 16.03 |
 
