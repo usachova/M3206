@@ -23,7 +23,8 @@
 
 [плейлист с записями практик](https://www.youtube.com/playlist?list=PLzKRKyH3GUxQe_s1TtJgiRJl80ZzneMPZ)
 
-[ответы на курс](https://drive.google.com/drive/folders/13S-tqWFHFhn3z9H8-HQSyroNaNADm4pR) "линейные электрические цепи"
+[ответы на курс](https://drive.google.com/drive/folders/13S-tqWFHFhn3z9H8-HQSyroNaNADm4pR) "линейные электрические цепи"  
+[ссылка](https://drive.google.com/drive/folders/1inVJVo2cPYAqsVBej8CE50hvfSoVxl5b) какая-то я не ебу
 
 | задание | дедлайн |
 | :--- | :--- |
