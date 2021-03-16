@@ -24,7 +24,8 @@
 
 #### Преподаватель: TODO
 
-[лабы](https://drive.google.com/drive/folders/1YJlYGl4T45Fr3tq28TBbSHQtuvl0yxNe) //чуть попозже разберусь чё куда, пока так
+[лабы](https://drive.google.com/drive/folders/1YJlYGl4T45Fr3tq28TBbSHQtuvl0yxNe) //чуть попозже разберусь чё куда, пока так  
+дедлайнов по лабам нет
 
 
 
