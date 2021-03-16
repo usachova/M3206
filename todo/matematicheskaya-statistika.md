@@ -17,6 +17,9 @@
 
 #### Преподавательница: [Милованович Екатерина Воиславовна](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:106026)
 
-[методические указания по решению задач](https://drive.google.com/file/d/1apxGPFTNQvzCDytnK8YIBzB3sa0KW_eX/view)  
-[типовик](https://drive.google.com/file/d/1hShWYtA5lpneRzX6UEkFRYzgbtlDIWSD/view)
+[методические указания по решению задач](https://drive.google.com/file/d/1apxGPFTNQvzCDytnK8YIBzB3sa0KW_eX/view)
+
+[типовик](https://drive.google.com/file/d/1hShWYtA5lpneRzX6UEkFRYzgbtlDIWSD/view) номер один \(сдаём на 10-11 неделе\)
+
+[дз1](https://docs.google.com/document/d/1mar3tFecVCrPACiAMdct27zlf_4jTf_Dj5sxGSdRGdA/edit?usp=sharing) \(сдаём в конце семестра\)
 
