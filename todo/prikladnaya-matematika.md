@@ -13,3 +13,5 @@
 
 [дискорд для сдачи лабораторных](https://vk.com/away.php?to=https%3A%2F%2Fdiscord.gg%2Fc6uPb2x&cc_key=)
 
+[разбиение по командам](https://docs.google.com/spreadsheets/d/15FbvUNYdszGEVKZB5iEvxdXeFBB7jDfFq2dEFCRoqmo/edit#gid=1504486233) \(№ группы == вариант\)
+
