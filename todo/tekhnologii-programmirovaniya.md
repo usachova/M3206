@@ -20,6 +20,8 @@
 
 [инструкции и презентация](https://drive.google.com/drive/folders/19X-lGTOus1y7kKTabY8NEYMHqKFjA_kY)
 
+[чат в телеге](https://t.me/joinchat/Rf8O-0W3v9NgDUgN)
+
 ## Практика 2 поток
 
 #### Преподаватель: TODO
