@@ -16,7 +16,7 @@
 
 ## Лекции 2 поток
 
-#### Преподаватель: TODO
+#### Преподаватель: Собенников Виктор Леонидович
 
 [инструкции и презентация](https://drive.google.com/drive/folders/19X-lGTOus1y7kKTabY8NEYMHqKFjA_kY)
 
