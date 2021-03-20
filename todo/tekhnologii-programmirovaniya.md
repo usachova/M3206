@@ -20,14 +20,21 @@
 
 [инструкции и презентация](https://drive.google.com/drive/folders/19X-lGTOus1y7kKTabY8NEYMHqKFjA_kY)
 
-[чат в телеге](https://t.me/joinchat/Rf8O-0W3v9NgDUgN)
+[чат в телеге](https://t.me/joinchat/Rf8O-0W3v9NgDUgN)  
+[Конференция Zoom](https://itmo.zoom.us/j/6550831799)
 
 ## Практика 2 поток
 
-#### Преподаватель: TODO
+#### Преподаватель М3207-М3210: Собенников Виктор Леонидович
 
-[лабы](https://drive.google.com/drive/folders/1YJlYGl4T45Fr3tq28TBbSHQtuvl0yxNe) //чуть попозже разберусь чё куда, пока так  
-дедлайнов по лабам нет
+[Конференция Zoom](https://itmo.zoom.us/j/6550831799)
+
+#### Преподаватель М3211-М3212: Саравайский Михаил Александрович
+
+[Конференция Zoom](https://dell.zoom.us/j/95771512486?pwd=aDh1MlM5bVpEN1VUaVFlVFJ6SU1nZz09)  
+[Discord](https://discord.gg/P6WRFQ3BrC)
+
+[лабы](https://drive.google.com/drive/folders/1YJlYGl4T45Fr3tq28TBbSHQtuvl0yxNe) //дедлайнов нет
 
 
 
