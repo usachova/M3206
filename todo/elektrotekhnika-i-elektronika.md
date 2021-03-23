@@ -39,5 +39,5 @@
 
 #### Преподаватель: [Поляков Николай Александрович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:137894)
 
-[ответы на курс](https://drive.google.com/drive/folders/1dMsylPI5e06jaE-F7WPbjWT6mMuj_IyM) "цифровая схемотехника"
+[ответы на курс](https://drive.google.com/drive/folders/1rHT-gKE8-ui7PvByqp7Wlbwdl8i8yRkE) "цифровая схемотехника"
 
