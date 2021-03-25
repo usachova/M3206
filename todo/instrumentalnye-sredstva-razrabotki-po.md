@@ -15,3 +15,5 @@
 
 [условия лаб](https://drive.google.com/file/d/1PD-n0kHWzuSgxBAsRhXcb_9gdATWTe3A/view?usp=sharing)
 
+[табличка с баллами](https://docs.google.com/spreadsheets/d/1A3qJlWvPenwOgRvvg8TVYbhvoW4wr5JmaYKPKpZ7QNE/edit#gid=1046089025)
+
