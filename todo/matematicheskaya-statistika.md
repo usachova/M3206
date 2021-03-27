@@ -19,10 +19,12 @@
 
 [методические указания по решению задач](https://drive.google.com/file/d/1apxGPFTNQvzCDytnK8YIBzB3sa0KW_eX/view)
 
+[учебник Гмурмана](https://drive.google.com/file/d/11Di5vEYRI3ECYvKm5OxLtMhHnkXfHJ6Y/view)
+
 [типовик](https://drive.google.com/file/d/1hShWYtA5lpneRzX6UEkFRYzgbtlDIWSD/view) номер один \(сдаём на 10-11 неделе\)
 
 | дз от | номера | дедлайн |
 | :--- | :--- | :--- |
 | 10.03 | [условия](https://docs.google.com/document/d/1mar3tFecVCrPACiAMdct27zlf_4jTf_Dj5sxGSdRGdA/edit) | конец семестра |
-| 24.03 | № 180, 186, 370 \(учебник\) | она так и не ответила |
+| 24.03 | № 180, 186, 370 \([задачник](https://drive.google.com/file/d/1FOHZvTtQwkQa-WLo3eKRvlL87SKzr8Ai/view)\) | она так и не ответила |
 
