@@ -21,5 +21,8 @@
 
 [типовик](https://drive.google.com/file/d/1hShWYtA5lpneRzX6UEkFRYzgbtlDIWSD/view) номер один \(сдаём на 10-11 неделе\)
 
-[дз1](https://docs.google.com/document/d/1mar3tFecVCrPACiAMdct27zlf_4jTf_Dj5sxGSdRGdA/edit?usp=sharing) \(сдаём в конце семестра\)
+| дз от | номера | дедлайн |
+| :--- | :--- | :--- |
+| 10.03 | [условия](https://docs.google.com/document/d/1mar3tFecVCrPACiAMdct27zlf_4jTf_Dj5sxGSdRGdA/edit) | конец семестра |
+| 24.03 | № 180, 186, 370 \(учебник\) | она так и не ответила |
 
