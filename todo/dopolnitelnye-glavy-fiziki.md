@@ -13,7 +13,8 @@
 #### Преподаватель: [Зинчик Александр Адольфович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:105747231495544::NO::PID:105840)
 
 почта: **zinchik\_alex@mail.ru**  
-[сайт с лабами/рубежками/контрольными](https://study.physics.itmo.ru/login/index.php)
+[сайт с лабами/рубежками/контрольными](https://study.physics.itmo.ru/login/index.php)  
+[табличка с \(а точнее без\) баллами](https://docs.google.com/spreadsheets/d/1borm5clmQqHAI4YdxSbEECv3zFawkAM8YEDPuesKXB8/edit#gid=0)
 
 [ссылка на пару \(пятница 8:20!!!!\)](https://itmo.zoom.us/j/84803968501?pwd=WmlNSEJpOWJLbnBWOWhycnNlWTJLQT09)
 
