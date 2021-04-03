@@ -15,3 +15,11 @@
 
 [разбиение по командам](https://docs.google.com/spreadsheets/d/15FbvUNYdszGEVKZB5iEvxdXeFBB7jDfFq2dEFCRoqmo/edit#gid=1504486233) \(№ группы == вариант\)
 
+| лаба | дедлайн |
+| :--- | :--- |
+| [лаба 1](http://mathdep.ifmo.ru/wp-content/uploads/2021/03/Lab_1_pm.pdf) | 28.03 |
+| [лаба 2](http://mathdep.ifmo.ru/wp-content/uploads/2021/03/Lab_2_pm.pdf) | 18.04 |
+| лаба 3 | 9.05 |
+| лаба 4 | 23.05 |
+| лаба 5 \(доп\) | до зачёта |
+
