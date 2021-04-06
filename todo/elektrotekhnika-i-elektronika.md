@@ -32,19 +32,14 @@
 | дз 2 | 05.03 |
 | лаба | 09.03 |
 
-| неделя в курсе "линейные цепи" | дедлайн |
-| :--- | :--- |
-| 1 | 07.03 |
-| 2 | 14.03 |
-
 #### Преподаватель: [Поляков Николай Александрович](https://isu.ifmo.ru/pls/apex/f?p=2143:3:111244859593082::NO::PID:137894)
 
 Формы для отчетов для студентов, выполняющих онлайн-курс. Формы следует не реже чем раз в 2 недели \(если результат не изменился, можно загрузить результат без изменений\):
 
 | неделя | даты | ссылка на форму |
 | :--- | :--- | :--- |
-| VIII | 29.03.2021 - 04.04.2021 | [https://forms.office.com/r/Y0F3Q74FRL](https://forms.office.com/r/Y0F3Q74FRL) |
-| IX | 05.04.2021 - 11.04.2021 | [https://forms.office.com/r/9jyqXhfFmt](https://forms.office.com/r/9jyqXhfFmt) |
+| VIII | ~~29.03.2021 - 04.04.2021~~ | [https://forms.office.com/r/Y0F3Q74FRL](https://forms.office.com/r/Y0F3Q74FRL) |
+| IX | **05.04.2021 - 11.04.2021** | [https://forms.office.com/r/9jyqXhfFmt](https://forms.office.com/r/9jyqXhfFmt) |
 | X | 12.04.2021 - 18.04.2021 | [https://forms.office.com/r/dvBnUjBzQ1](https://forms.office.com/r/dvBnUjBzQ1) |
 | XI | 19.04.2021 - 25.04.2021 | [https://forms.office.com/r/d2dinc9nGD](https://forms.office.com/r/d2dinc9nGD) |
 | XII | 26.04.2021 - 02.05.2021 | [https://forms.office.com/r/6kck5DCL3d](https://forms.office.com/r/6kck5DCL3d
