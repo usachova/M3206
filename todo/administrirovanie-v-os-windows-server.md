@@ -14,6 +14,12 @@
 2. вторая лекция: [видео](https://disk.yandex.ru/i/eGqa5XCdFj03RQ), [презентация](https://drive.google.com/file/d/1_64M9w1zg0t99OD0geUBm4jON0jBaZB7/view)
 3. третья лекция: [видео](https://disk.yandex.ru/i/l8T84cp5Pd4Mhw), [презентация](https://drive.google.com/file/d/1Kbsed9Gl3b2sySdpj8QanTlR4llZRoxz/view)
 4. четвёртая лекция: [видео](https://disk.yandex.ru/i/KPuhBYJ1Zt1yVw), [презентация](https://drive.google.com/drive/folders/1Oq7VYM4882Q1TMJoGNqHGDO3hBZ3ZKs8)
+5. пятая лекция: [видео](https://yadi.sk/d/u9eCXHhVe6dxaA
+   ), [презентация](https://docs.google.com/presentation/d/1XbSp-3TQxUL8Wya0qO0Qkpwlw5wInFNA/edit?usp=drive_web&ouid=105895795501397605521&rtpof=true)
+6. шестая лекция: [видео](https://yadi.sk/i/kw2Wl0vckYq94A
+   ), [презентация](https://docs.google.com/presentation/d/1YRqtXiXoqgRBlg8LMf8gKQt8FBwcx5WD/edit?rtpof=true)
+7. седьмая лекция: [видео](https://yadi.sk/i/k4EoLZHXTq8Dlg
+   ), презентация\(нет?\)
 
 ## Практика
 
