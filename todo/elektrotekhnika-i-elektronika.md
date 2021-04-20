@@ -39,9 +39,9 @@
 | неделя | даты | ссылка на форму |
 | :--- | :--- | :--- |
 | VIII | ~~29.03.2021 - 04.04.2021~~ | [https://forms.office.com/r/Y0F3Q74FRL](https://forms.office.com/r/Y0F3Q74FRL) |
-| IX | **05.04.2021 - 11.04.2021** | [https://forms.office.com/r/9jyqXhfFmt](https://forms.office.com/r/9jyqXhfFmt) |
-| X | 12.04.2021 - 18.04.2021 | [https://forms.office.com/r/dvBnUjBzQ1](https://forms.office.com/r/dvBnUjBzQ1) |
-| XI | 19.04.2021 - 25.04.2021 | [https://forms.office.com/r/d2dinc9nGD](https://forms.office.com/r/d2dinc9nGD) |
+| IX | ~~05.04.2021 - 11.04.2021~~ | ~~~~[https://forms.office.com/r/9jyqXhfFmt](https://forms.office.com/r/9jyqXhfFmt) |
+| X | ~~12.04.2021 - 18.04.2021~~ | [https://forms.office.com/r/dvBnUjBzQ1](https://forms.office.com/r/dvBnUjBzQ1) |
+| XI | **19.04.2021 - 25.04.2021** | [https://forms.office.com/r/d2dinc9nGD](https://forms.office.com/r/d2dinc9nGD) |
 | XII | 26.04.2021 - 02.05.2021 | [https://forms.office.com/r/6kck5DCL3d](https://forms.office.com/r/6kck5DCL3d
 ) |
 | XIII | 03.05.2021 - 09.05.2021 | [https://forms.office.com/r/2Vah19jPF3](https://forms.office.com/r/2Vah19jPF3) |
