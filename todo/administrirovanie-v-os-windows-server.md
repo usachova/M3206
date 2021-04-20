@@ -21,7 +21,11 @@
 6. шестая лекция: [видео](https://yadi.sk/i/kw2Wl0vckYq94A
    ), [презентация](https://docs.google.com/presentation/d/1YRqtXiXoqgRBlg8LMf8gKQt8FBwcx5WD/edit?rtpof=true)
 7. седьмая лекция: [видео](https://yadi.sk/i/k4EoLZHXTq8Dlg
-   ), презентация\(нет?\)
+   ), [презентация](https://drive.google.com/file/d/1DTy1pDHVgveV2tanCDpeLrLNaAM2m9wF/view)
+8. восьмая лекция: [видео](https://yadi.sk/i/01YWnL-HwGzntg
+   ), [презентация](https://drive.google.com/file/d/1nkFXgoSFwcGwUWbCNtzJDqtToklbkyTT/view)
+9. девятая лекция: [видео](https://yadi.sk/i/ykLcercFzuoHTw
+   ), [презентация](https://drive.google.com/file/d/1MxxtlpmqCbAXDnAm255a-1YYcO_4pLrm/view) 
 
 ## Практика
 
