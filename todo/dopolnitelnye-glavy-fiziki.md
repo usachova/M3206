@@ -26,3 +26,5 @@
 | [5.01](https://study.physics.itmo.ru/course/view.php?id=67&section=1) Измерение температуры и интегрального коэффициента излучения тела методом спектральных отношений | [2.07V](https://study.physics.itmo.ru/course/view.php?id=135&section=3) Определение показателя адиабаты воздуха методом Рюхарда |
 | [2.05](https://study.physics.itmo.ru/course/view.php?id=64&section=6) Определение изменения энтропии при плавлении олова | [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/) \(???\) |
 
+![&#x43C;&#x43E;&#x434;&#x435;&#x43B;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F;](../.gitbook/assets/image%20%284%29.png)
+
