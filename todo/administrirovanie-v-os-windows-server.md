@@ -35,6 +35,9 @@
 
 [лабы](https://drive.google.com/drive/folders/1UoIjuQ0YgMoKlrBA5DLL17a6qGDWmzoV)
 
+после защиты лабораторной отчёт выслать на адрес: [**edu-net@yandex.ru**](mailto:edu-net@yandex.ru)  
+****в теме письма: №группы ФИО \(латинскими буквами\) №работы \(например: 5555 Fedor Sumkin 4\)
+
 | лаба | дедлайн |
 | :--- | :--- |
 | [1](https://docs.google.com/document/d/1fq23Y7y4b5CqXv57lEvxWps_OFsMsUKE/edit) | ~~02.03~~ |
