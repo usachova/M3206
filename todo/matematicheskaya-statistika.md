@@ -28,9 +28,3 @@
 
 [папка](https://drive.google.com/drive/folders/1vx80jVqv0YrWToiVOaHzOa18vFfEzT3O) для сдачи дз
 
-| дз от | номера | дедлайн |
-| :--- | :--- | :--- |
-| 10.03 | [условия](https://docs.google.com/document/d/1mar3tFecVCrPACiAMdct27zlf_4jTf_Dj5sxGSdRGdA/edit) | конец семестра |
-| 24.03 | № 180, 186, 370 \([задачник](https://drive.google.com/file/d/1FOHZvTtQwkQa-WLo3eKRvlL87SKzr8Ai/view)\) | она так и не ответила |
-| 3.04 | № 180 стр 58, 186 стр 62, 368 стр 119, 371 стр 120 | 10.04???? |
-
