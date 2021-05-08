@@ -26,6 +26,8 @@
 | 1 | [условия](https://drive.google.com/file/d/1hShWYtA5lpneRzX6UEkFRYzgbtlDIWSD/view) | 14.04 - сдача |
 | 2 | будет | ещё |
 
+[папка](https://drive.google.com/drive/folders/1vx80jVqv0YrWToiVOaHzOa18vFfEzT3O) для сдачи дз
+
 | дз от | номера | дедлайн |
 | :--- | :--- | :--- |
 | 10.03 | [условия](https://docs.google.com/document/d/1mar3tFecVCrPACiAMdct27zlf_4jTf_Dj5sxGSdRGdA/edit) | конец семестра |
