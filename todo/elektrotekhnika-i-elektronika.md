@@ -23,8 +23,7 @@
 
 [плейлист с записями практик](https://www.youtube.com/playlist?list=PLzKRKyH3GUxQe_s1TtJgiRJl80ZzneMPZ)
 
-[ответы на курс](https://drive.google.com/drive/folders/13S-tqWFHFhn3z9H8-HQSyroNaNADm4pR) "линейные электрические цепи"  
-[ссылка](https://drive.google.com/drive/folders/1inVJVo2cPYAqsVBej8CE50hvfSoVxl5b) какая-то я не ебу
+[ответы](https://drive.google.com/drive/folders/1inVJVo2cPYAqsVBej8CE50hvfSoVxl5b)
 
 | задание | дедлайн |
 | :--- | :--- |
@@ -44,8 +43,8 @@
 | XI | ~~19.04.2021 - 25.04.2021~~ | [https://forms.office.com/r/d2dinc9nGD](https://forms.office.com/r/d2dinc9nGD) |
 | XII | ~~26.04.2021 - 02.05.2021~~ | [https://forms.office.com/r/6kck5DCL3d](https://forms.office.com/r/6kck5DCL3d
 ) |
-| XIII | **03.05.2021 - 09.05.2021** | [https://forms.office.com/r/2Vah19jPF3](https://forms.office.com/r/2Vah19jPF3) |
-| XIV | 10.05.2021 - 16.05.2021 | [https://forms.office.com/r/FifJNNQaKG](https://forms.office.com/r/FifJNNQaKG) |
+| XIII | ~~03.05.2021 - 09.05.2021~~ | ~~~~[https://forms.office.com/r/2Vah19jPF3](https://forms.office.com/r/2Vah19jPF3) |
+| XIV | **10.05.2021 - 16.05.2021** | \*\*\*\*[https://forms.office.com/r/FifJNNQaKG](https://forms.office.com/r/FifJNNQaKG) |
 | XV | 17.05.2021 - 23.05.2021 | [https://forms.office.com/r/hhMnTXFK0u](https://forms.office.com/r/hhMnTXFK0u) |
 | XVI | 24.05.2021 - 30.05.2021 | [https://forms.office.com/r/4cUsr1wAGa](https://forms.office.com/r/4cUsr1wAGa) |
 | XVII | 31.05.2021 - 06.06.2021 | [https://forms.office.com/r/3KihrvDQN9](https://forms.office.com/r/3KihrvDQN9) |
