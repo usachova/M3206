@@ -28,7 +28,9 @@
 
 [папка](https://drive.google.com/drive/folders/1vx80jVqv0YrWToiVOaHzOa18vFfEzT3O) для сдачи дз
 
+![&#x443;&#x441;&#x43B;&#x43E;&#x432;&#x438;&#x435; &#x434;&#x437;1](../.gitbook/assets/image%20%286%29.png)
+
 ![&#x443;&#x441;&#x43B;&#x43E;&#x432;&#x438;&#x435; &#x434;&#x437;2](../.gitbook/assets/image%20%285%29.png)
 
-![&#x443;&#x441;&#x43B;&#x43E;&#x432;&#x438;&#x435; &#x434;&#x437;3](../.gitbook/assets/image%20%286%29.png)
+![&#x443;&#x441;&#x43B;&#x43E;&#x432;&#x438;&#x435; &#x434;&#x437;3](../.gitbook/assets/image%20%287%29.png)
 
