@@ -34,3 +34,5 @@
 
 ![&#x443;&#x441;&#x43B;&#x43E;&#x432;&#x438;&#x435; &#x434;&#x437;3](../.gitbook/assets/snimok-ekrana-2021-05-29-v-13.20.55.png)
 
+[онлайн-калькулятер](https://ru.onlinemschool.com/math/assistance/equation/gaus/)
+
