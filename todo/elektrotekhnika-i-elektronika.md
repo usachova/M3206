@@ -49,8 +49,8 @@
 | XIV | ~~10.05.2021 - 16.05.2021~~ | ~~~~[https://forms.office.com/r/FifJNNQaKG](https://forms.office.com/r/FifJNNQaKG) |
 | XV | ~~17.05.2021 - 23.05.2021~~ | \*\*\*\*[https://forms.office.com/r/hhMnTXFK0u](https://forms.office.com/r/hhMnTXFK0u) |
 | XVI | ~~24.05.2021 - 30.05.2021~~ | ~~~~[https://forms.office.com/r/4cUsr1wAGa](https://forms.office.com/r/4cUsr1wAGa) |
-| XVII | **31.05.2021 - 06.06.2021** | \*\*\*\*[https://forms.office.com/r/3KihrvDQN9](https://forms.office.com/r/3KihrvDQN9) |
-| итог | после выполнения курса | [https://forms.office.com/r/iYytp0tQSH](https://forms.office.com/r/iYytp0tQSH) |
+| XVII | ~~31.05.2021 - 06.06.2021~~ | ~~~~[https://forms.office.com/r/3KihrvDQN9](https://forms.office.com/r/3KihrvDQN9) |
+| итог | **после выполнения курса** | \*\*\*\*[https://forms.office.com/r/iYytp0tQSH](https://forms.office.com/r/iYytp0tQSH) |
 
 [ответы на курс](https://drive.google.com/drive/folders/1rHT-gKE8-ui7PvByqp7Wlbwdl8i8yRkE) "цифровая схемотехника"
 
