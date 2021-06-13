@@ -24,7 +24,6 @@
 | типовик | условия | дедлайн |
 | :--- | :--- | :--- |
 | 1 | [условия](https://drive.google.com/file/d/1hShWYtA5lpneRzX6UEkFRYzgbtlDIWSD/view) | 14.04 - сдача |
-| 2 | будет | ещё |
 
 [папка](https://drive.google.com/drive/folders/1vx80jVqv0YrWToiVOaHzOa18vFfEzT3O) для сдачи дз
 
