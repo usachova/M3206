@@ -22,9 +22,9 @@
 | :--- | :--- |
 | [5.07](https://study.physics.itmo.ru/course/view.php?id=67&section=9) Определение постоянной Планка методом задерживающего потенциала | [5.01V](https://study.physics.itmo.ru/course/view.php?id=67&section=2) Куб Лесли |
 | [5.04](https://study.physics.itmo.ru/course/view.php?id=67&section=6) Определение постоянной Ридберга по спектру излучения атомарного водорода | [5.02V](https://study.physics.itmo.ru/course/view.php?id=67&section=4) Исследование внешнего фотоэффекта |
-| [5.06](https://study.physics.itmo.ru/course/view.php?id=67&section=8) Квантовая криптография | [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/) \(я пока не поняла что это значит\) |
+| [5.06](https://study.physics.itmo.ru/course/view.php?id=67&section=8) Квантовая криптография | [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/)  |
 | [5.01](https://study.physics.itmo.ru/course/view.php?id=67&section=1) Измерение температуры и интегрального коэффициента излучения тела методом спектральных отношений | [2.07V](https://study.physics.itmo.ru/course/view.php?id=135&section=3) Определение показателя адиабаты воздуха методом Рюхарда |
-| [2.05](https://study.physics.itmo.ru/course/view.php?id=64&section=6) Определение изменения энтропии при плавлении олова | [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/) \(???\) |
+| [2.05](https://study.physics.itmo.ru/course/view.php?id=64&section=6) Определение изменения энтропии при плавлении олова | [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/)  |
 
 ![&#x43C;&#x43E;&#x434;&#x435;&#x43B;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F;](../.gitbook/assets/image%20%284%29.png)
 
