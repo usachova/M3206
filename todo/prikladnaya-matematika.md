@@ -19,7 +19,5 @@
 | :--- | :--- |
 | [лаба 1](http://mathdep.ifmo.ru/wp-content/uploads/2021/03/Lab_1_pm.pdf) | ~~28.03~~ |
 | [лаба 2](http://mathdep.ifmo.ru/wp-content/uploads/2021/03/Lab_2_pm.pdf) | ~~1.05~~ |
-| [лаба 3](http://mathdep.ifmo.ru/wp-content/uploads/2021/04/Lab_3_pm.pdf) | **17.05** |
-| лаба 4 | 23.05 |
-| лаба 5 \(доп\) | до зачёта |
+| [лаба 3](http://mathdep.ifmo.ru/wp-content/uploads/2021/04/Lab_3_pm.pdf) | ~~17.05~~ |
 
