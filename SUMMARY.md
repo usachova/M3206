@@ -18,4 +18,5 @@
 
 * [2 семестр](arkhiv/2-semestr.md)
 * [3 семестр](arkhiv/3-semestr.md)
+* [4 семестр](arkhiv/4-semestr.md)
 
