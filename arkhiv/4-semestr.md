@@ -159,8 +159,6 @@
 [сайт с лабами/рубежками/контрольными](https://study.physics.itmo.ru/login/index.php)  
 [табличка с \(а точнее без\) баллами](https://docs.google.com/spreadsheets/d/1borm5clmQqHAI4YdxSbEECv3zFawkAM8YEDPuesKXB8/edit#gid=0)
 
-[ссылка на пару \(пятница 8:20!!!!\)](https://itmo.zoom.us/j/84803968501?pwd=WmlNSEJpOWJLbnBWOWhycnNlWTJLQT09)
-
 <table>
   <thead>
     <tr>
