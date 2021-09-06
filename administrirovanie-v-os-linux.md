@@ -2,7 +2,7 @@
 
 ## Лекции и практики
 
-#### Дядюшкин Александр Александрович
+#### Преподаватель: Дядюшкин Александр Александрович
 
 канал в дискорде: [https://discord.gg/gdC9XDFt](https://discord.gg/gdC9XDFt)  
 почта для отчётов: [dyadyushkin.a@ya.ru](mailto:dyadyushkin.a@ya.ru)
