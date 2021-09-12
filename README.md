@@ -14,7 +14,7 @@ description: нас ждёт осень 2021 всё будет заебись ч
 - [Цифровую культуру](https://student.itmo.ru/ru/digital_culture_bach/) \(см. для 3 курс, V семестр\)  
 Подробнее о выборе дисциплин: [https://student.itmo.ru/ru/choice\_bach/](https://vk.com/away.php?to=https%3A%2F%2Fstudent.itmo.ru%2Fru%2Fchoice_bach%2F&cc_key=)
 
-### Ближайшие дедлайны и события
+### Ближайшие дедлайны
 
 | задание | дедлайн/дата |
 | :--- | :--- |
