@@ -4,7 +4,8 @@
 
 #### Преподаватель: Макаревич Роман Дмитриевич
 
-tg: [@ukcrem](https://t.me/ukcrem)
+tg: [@ukcrem](https://t.me/ukcrem)  
+чат в телеге: [https://t.me/joinchat/JJUJBy7p2zllZTQy](https://t.me/joinchat/JJUJBy7p2zllZTQy)
 
 ## Практики
 
