@@ -47,3 +47,11 @@ description: нас ждёт осень 2021 всё будет заебись ч
 19. Шарифов Сардорбек Дилшод угли
 20. Шукшина Ирина Алексеевна
 
+### Куча сайтов итмошных
+
+* [https://isu.ifmo.ru/](https://isu.ifmo.ru/)
+* [https://de.ifmo.ru/](https://de.ifmo.ru/)
+* [https://bars.itmo.ru/](https://bars.itmo.ru/)
+* [https://fitp.itmo.ru/](https://fitp.itmo.ru/)
+* [https://my.itmo.ru/](https://my.itmo.ru/)
+
