@@ -9,7 +9,7 @@
 
 | номер | дедлайн | сколько |
 | :--- | :--- | :--- |
-| [1](https://drive.google.com/file/d/1tMSvDxnmtMwS3-LoD5CM8-CfyKM2Pjjn/view) |  | ??? |
+| [1 \(это ссылка\)](https://drive.google.com/file/d/1tMSvDxnmtMwS3-LoD5CM8-CfyKM2Pjjn/view) |  | ??? |
 | 2 |  | ??? |
 | 3 |  | ??? |
 | 4 |  | ??? |
