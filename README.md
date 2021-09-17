@@ -39,10 +39,10 @@ description: нас ждёт осень 2021 всё будет заебись ч
 
 ### Куча сайтов итмошных
 
-* [https://isu.ifmo.ru/](https://isu.ifmo.ru/)
-* [https://de.ifmo.ru/](https://de.ifmo.ru/)
-* [https://bars.itmo.ru/](https://bars.itmo.ru/)
-* [https://fitp.itmo.ru/](https://fitp.itmo.ru/)
-* [https://my.itmo.ru/](https://my.itmo.ru/)
-* [https://openedu.ru/](https://openedu.ru/)
+* пожилое ису: [https://isu.ifmo.ru/](https://isu.ifmo.ru/)
+* цдо с баллами и тестиками: [https://de.ifmo.ru/](https://de.ifmo.ru/)
+* барс с баллами которых нет в цдо: [https://bars.itmo.ru/](https://bars.itmo.ru/)
+* сайт фитипа: [https://fitp.itmo.ru/](https://fitp.itmo.ru/)
+* твой \(чей?\) итмо: [https://my.itmo.ru/](https://my.itmo.ru/)
+* тут онлайн курсы: [https://openedu.ru/](https://openedu.ru/)
 
