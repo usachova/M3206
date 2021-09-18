@@ -14,7 +14,7 @@
 
 | номер | дедлайн | сколько |
 | :--- | :--- | :--- |
-| [1 \(это ссылка на задание лабы номер один рАШИД\)](https://drive.google.com/file/d/1tMSvDxnmtMwS3-LoD5CM8-CfyKM2Pjjn/view) | 2.10 | 9 |
+| [1 \(это ссылка на задание лабы номер один рАШИД\)](https://drive.google.com/file/d/1tMSvDxnmtMwS3-LoD5CM8-CfyKM2Pjjn/view) | **2.10** | 9 |
 | [2 \(и это ссылка!!!\)](https://drive.google.com/file/d/1zEE40d2gOJJgAQ4pxLQVBLtDU1t2DWC_/view) | 16.10 | 12 |
 | 3 | 30.10 | 12 |
 | 4 | 13.11 | 12 |
