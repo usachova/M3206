@@ -13,5 +13,6 @@ tg: [@ukcrem](https://t.me/ukcrem)
 
 #### Преподаватель: ??
 
-лабораторные: [https://docs.google.com/document/d/1ybmhKPyUyZvGaJI-3MrM9AleAW9Kzng8/edit](https://docs.google.com/document/d/1ybmhKPyUyZvGaJI-3MrM9AleAW9Kzng8/edit)
+лабораторные: [https://docs.google.com/document/d/1ybmhKPyUyZvGaJI-3MrM9AleAW9Kzng8/edit](https://docs.google.com/document/d/1ybmhKPyUyZvGaJI-3MrM9AleAW9Kzng8/edit)  
+по лабам дедлайнов нет. итог семестра - проект, включающий себя все лабы. практики существуют для того, чтобы поэтапно можно было этот проект показывать и спрашивать Мнение
 
