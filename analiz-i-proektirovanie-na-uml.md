@@ -15,8 +15,10 @@
 | задания | дедлайн | баллы |
 | :--- | :--- | :--- |
 | [1](https://piazza.com/class_profile/get_resource/kstyi592m2w3xx/kstyicp7h9w4c2) | 22.09 | 6 |
+| [2](https://piazza.com/class_profile/get_resource/kstyi592m2w3xx/ktu9jggtqj4303) | 22.09 23:59 | 6 |
 
 | этапы проекта | дедлайн |
 | :--- | :--- |
 | подготовительный | 22.09 |
+| 1 этап | 6.10 |
 
