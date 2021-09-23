@@ -12,6 +12,8 @@
 
 чат в телеге: [https://t.me/joinchat/U8lz6F5bCB4xMDFi](https://t.me/joinchat/U8lz6F5bCB4xMDFi)
 
+информация по проекту и его этапам: конец первой презентации 
+
 | задания | дедлайн | баллы |
 | :--- | :--- | :--- |
 | [1](https://piazza.com/class_profile/get_resource/kstyi592m2w3xx/kstyicp7h9w4c2) | ~~21.09 23:59~~ | 6 |
