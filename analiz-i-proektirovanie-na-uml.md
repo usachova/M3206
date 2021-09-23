@@ -12,14 +12,17 @@
 
 чат в телеге: [https://t.me/joinchat/U8lz6F5bCB4xMDFi](https://t.me/joinchat/U8lz6F5bCB4xMDFi)
 
-| задания | дедлайн | баллы |
+| задания | дедлайн | баллы  \(max sum = 25\) |
 | :--- | :--- | :--- |
 | [1](https://piazza.com/class_profile/get_resource/kstyi592m2w3xx/kstyicp7h9w4c2) | ~~21.09 23:59~~ | 6 |
 | [2](https://piazza.com/class_profile/get_resource/kstyi592m2w3xx/ktu9jggtqj4303) | ~~22.09 23:59~~ | 6 |
+| 3 |  | 6 |
+| 4 |  | 6 |
+| 5 |  | 6 |
 
 информация по проекту и его этапам: конец первой презентации 
 
-| этапы проекта | дедлайн | баллы |
+| этапы проекта | дедлайн | баллы  \(max sum = 55\) |
 | :--- | :--- | :--- |
 | подготовительный | ~~22.09~~ | ?  |
 | 1 этап | 6.10 | 15 |
