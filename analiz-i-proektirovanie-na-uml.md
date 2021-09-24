@@ -12,6 +12,8 @@
 
 чат в телеге: [https://t.me/joinchat/U8lz6F5bCB4xMDFi](https://t.me/joinchat/U8lz6F5bCB4xMDFi)
 
+[табличка с баллами](https://docs.google.com/spreadsheets/d/12e_wplYJa-wGv8OjluRYK9mCFf141Uwa0_1dSeFq6Wc/edit#gid=1674328469)
+
 | задания | дедлайн | баллы  \(max sum = 25\) |
 | :--- | :--- | :--- |
 | [1](https://piazza.com/class_profile/get_resource/kstyi592m2w3xx/kstyicp7h9w4c2) | ~~21.09 23:59~~ | 6 |
