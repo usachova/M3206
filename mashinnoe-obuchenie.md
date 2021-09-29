@@ -36,7 +36,7 @@
 
 | № | тема | дедлайн | баллы |
 | :--- | :--- | :--- | :--- |
-| 1 | [Питон и математика](https://drive.google.com/drive/folders/13riQMzd98q87wIjgUDX7Y-BywaAtunk-) | 29.09 | 10 |
+| 1 | [Питон и математика](https://drive.google.com/drive/folders/13riQMzd98q87wIjgUDX7Y-BywaAtunk-) | ~~29.09~~ | 10 |
 | 2 | [Pandas](https://drive.google.com/drive/folders/1xP5H0bEgEXfZq6vLpKmE5xn14Dhjdmju) |  | 12 |
 | 3 | [Линейная регрессия](https://drive.google.com/drive/folders/1xdnwllkb3H3171PVTvbBi9gX_gsHqrKC) |  | 12 |
 | 4 | [Деревья решений и случайный лес](https://drive.google.com/drive/folders/1mQu_xwMv6ZpdPPqkkAfJnY852cB9wNve) |  | 12 |
