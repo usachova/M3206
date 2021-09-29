@@ -30,6 +30,8 @@
 
 #### Преподаватель: [Хлопотов Максим Валерьевич](https://isu.ifmo.ru/pls/apex/f?p=2143:3:103572934657565::NO::PID:115801)
 
+[табличка с баллами](https://docs.google.com/spreadsheets/d/1qo03lRyhl5xM4_Kx3jzJSb9K2vRGm9dXIqbUDmrkxMc/edit#gid=1070028933)
+
 за лабы не более 80 баллов в сумме
 
 | № | тема | дедлайн | баллы |
