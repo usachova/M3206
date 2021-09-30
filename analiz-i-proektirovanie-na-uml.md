@@ -6,6 +6,10 @@
 
 [https://piazza.com/niuitmo.ru/fall2021/cs302/resources](https://piazza.com/niuitmo.ru/fall2021/cs302/resources)
 
+| событие | дата |
+| :--- | :--- |
+| тест по итогам 1 модуля  | 14.10 |
+
 ## Практики
 
 #### Преподаватель: Дарья Кравченко
