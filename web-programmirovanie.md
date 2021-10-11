@@ -9,6 +9,8 @@ tg: [@ukcrem](https://t.me/ukcrem)\
 
 материалы с лекций: [https://xrem.github.io/web/](https://xrem.github.io/web/)
 
+результаты рубежек: [1](https://xrem.github.io/web/r1.html)
+
 ## Практики
 
 #### Преподаватель: ? :face_with_monocle: 
