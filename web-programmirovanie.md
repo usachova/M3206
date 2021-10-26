@@ -13,7 +13,9 @@ tg: [@ukcrem](https://t.me/ukcrem)\
 
 ## Практики
 
-#### Преподаватель: ? :face\_with\_monocle:&#x20;
+#### Преподаватель: Вадим Плохотнюк
+
+[дискорд](https://discord.gg/6FzK2kJT)
 
 лабораторные: [https://docs.google.com/document/d/1ybmhKPyUyZvGaJI-3MrM9AleAW9Kzng8/edit](https://docs.google.com/document/d/1ybmhKPyUyZvGaJI-3MrM9AleAW9Kzng8/edit)\
 по лабам дедлайнов нет. итог семестра - проект, включающий себя все лабы. практики существуют для того, чтобы поэтапно можно было этот проект показывать и спрашивать Мнение преподавателя.. ~~**ИЛИ ЕСТЬ**~~** **~~**или нет**~~** или есть**
