@@ -4,7 +4,7 @@ description: нас ждёт осень 2021 всё будет заебись ч
 
 # Стартовая страница
 
-этот сайт больше не обновляется, сайт с актульной информацией: [https://usachova.github.io/ITMO-WEB/](https://usachova.github.io/ITMO-WEB/)
+этот сайт больше не обновляется, сайт с актуальной информацией: [https://usachova.github.io/ITMO-WEB/](https://usachova.github.io/ITMO-WEB/)
 
 ### Дедлайны
 
